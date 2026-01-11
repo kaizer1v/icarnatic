@@ -9,3 +9,12 @@
 
   Run `npm run dev` to start the development server.
   
+  -----
+
+# Notes
+
+Arch:
+1. scraper can be run on aws lambda
+2. store data on s3 / supabase.com
+3. run a small ec2 with nginx loadbalancing
+4. use ECS to scale it. Automate ec2 using terraform
