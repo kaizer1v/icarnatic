@@ -1,0 +1,79 @@
+[
+  {
+    "id": "evt_001",
+    "date": "08-01-2026",
+    "time": "10:00",
+    "venue_name": "Conference Room A",
+    "artist_names": ["Team Sync Group"]
+  },
+  {
+    "id": "evt_002",
+    "date": "09-01-2026",
+    "time": "14:00",
+    "venue_name": "Executive Boardroom",
+    "artist_names": ["Product Team", "Design Team"]
+  },
+  {
+    "id": "evt_003",
+    "date": "10-01-2026",
+    "time": "09:00",
+    "venue_name": "Client Office Downtown",
+    "artist_names": ["Sales Team", "Client Representatives"]
+  },
+  {
+    "id": "evt_003",
+    "date": "10-01-2026",
+    "time": "19:00",
+    "venue_name": "Client Office Downtown",
+    "artist_names": ["Some other team", "Another team"]
+  },
+  {
+    "id": "evt_004",
+    "date": "12-01-2026",
+    "time": "13:00",
+    "venue_name": "Design Studio",
+    "artist_names": ["UX Team", "UI Designers", "Product Managers"]
+  },
+  {
+    "id": "evt_005",
+    "date": "13-01-2026",
+    "time": "10:00",
+    "venue_name": "Main Conference Hall",
+    "artist_names": ["Development Team", "QA Team"]
+  },
+  {
+    "id": "evt_006",
+    "date": "14-01-2026",
+    "time": "15:00",
+    "venue_name": "Café Meeting Space",
+    "artist_names": ["Sarah Johnson", "Mike Chen"]
+  },
+  {
+    "id": "evt_007",
+    "date": "15-01-2026",
+    "time": "11:00",
+    "venue_name": "Town Hall Auditorium",
+    "artist_names": ["CEO", "Executive Team", "All Staff"]
+  },
+  {
+    "id": "evt_008",
+    "date": "16-01-2026",
+    "time": "14:00",
+    "venue_name": "Development Lab",
+    "artist_names": ["Senior Developers", "Tech Leads"]
+  },
+  {
+    "id": "evt_009",
+    "date": "20-01-2026",
+    "time": "12:00",
+    "venue_name": "Training Room B",
+    "artist_names": ["Guest Speaker", "Learning & Development Team"]
+  },
+  {
+    "id": "evt_010",
+    "date": "22-01-2026",
+    "time": "10:00",
+    "venue_name": "Project Room",
+    "artist_names": ["Project Stakeholders", "Implementation Team"]
+  }
+]

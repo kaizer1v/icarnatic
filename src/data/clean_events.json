@@ -1,0 +1,5704 @@
+[
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "Arkay Convention Center",
+    "artist_names": [
+      "S R Vinay",
+      "Siva Teja",
+      "Puttur T Nikshith"
+    ],
+    "id": "9b5e2226-bf69-47a8-b122-762779ddff07"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Prithvi Harish",
+      "Subhashree Sivaramakrishna",
+      "S. Kavichelvan"
+    ],
+    "id": "dcfd0904-fb6b-47dc-85c4-51d1ae9f8b10"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "J A Jayant",
+      "L Ramakrishnan",
+      "N C Bharadwaj",
+      "Dr S Karthick"
+    ],
+    "id": "ce7fa9f6-9117-4f27-b98a-9215ad214c84"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Ganpati Ramanath",
+      "Niveditha Doraiswamy",
+      "Vishaak Rajaram"
+    ],
+    "id": "88c20817-9950-426f-8f5c-29d862539826"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "SUNIL R GARGYANMYSORE",
+      "M SRIKANTHK.V.PRASAD"
+    ],
+    "id": "6ad18710-7958-4021-b52c-541944cafcf7"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Nirmala Rajasekar",
+      "Trivandrum Sampath",
+      "Thanjavur K Murugaboopathi",
+      "N. Guruprasad"
+    ],
+    "id": "dc7ff1e6-5839-47a6-995a-b82f13e0b597"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:00",
+    "venue_name": "Sri Thyaga Brahma Gana Sabha (Vani Mahal)",
+    "artist_names": [
+      "Dr. Ghatam Karthick's - Heartbeat Ensemble - Dr. S. Karthick - Ghatam & Konnakol & Vocal",
+      "Palakkad Sreeram  - Flute & Vocal",
+      "V G Vigneswar - Keyboard",
+      "Triplicane K Sekar - Thavil",
+      "Sarvesh Karthick",
+      "S. Sunil Kumar",
+      "Payyanur T. Govindaprasad",
+      "Heartbeat Ens emble"
+    ],
+    "id": "b86daa7f-242a-410b-a726-e32162cf4dbe"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:05",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "Shreya Anil"
+    ],
+    "id": "09a28832-be98-4fe6-a347-6035db4c8e38"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Bhargavi Balasubramaniam",
+      "V.S.P. Gayatri Sivani",
+      "Trivandrum V. Balaji",
+      "S. Sunil Kumar"
+    ],
+    "id": "1e424e72-3eed-4109-82eb-6745e2a3631e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "“Carnatic Hindustani Jugalbandhi” VVS Murari - Violin",
+      "Ashwani Shankar - Shehnai",
+      "Sai Giridhar",
+      "Amit Kavthekar",
+      "Carnatic Hindustani Jugalbandhi"
+    ],
+    "id": "d061d4a9-f75f-4b7a-b948-dce22cb41d8b"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Nisha Rajagopalan",
+      "Rajeev Mukundan",
+      "Praveen Sparsh",
+      "S Krishna"
+    ],
+    "id": "3f5df784-f2ad-49c9-bef2-faec74646c8d"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Tamil Isai Vendhar Dr. M. Lalitha & M. Nandini",
+      "Hariharapura K. Abhijit",
+      "H.Sivaramakrishnan"
+    ],
+    "id": "aadf16f8-c656-4d83-9bd6-bb744025842f"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "BHARATH SUNDARSayee Rakshith",
+      "J. Vaidynathan",
+      "Chandrasekara Sharma"
+    ],
+    "id": "c8ed59eb-68bb-4dde-a045-f8786032c953"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Rasika Fine Arts, Chennai",
+    "artist_names": [
+      "Prince Rama Varma",
+      "S.R. Vinu",
+      "B. Harikumar",
+      "Dr. S. Karthick",
+      "Payyannur Govindaprasad"
+    ],
+    "id": "b333fb59-dc18-4760-9ed6-d8c0d829d5d3"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Vijay Siva",
+      "Trivandrum Shri Sampath",
+      "Shri Patri Satishkumar",
+      "Shri S Sunilkumar"
+    ],
+    "id": "e6e26700-7668-4446-b13f-860b9696ba4b"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "SANDEEP NARAYANS. Varadarajan",
+      "Dr. Trichy Sankaran",
+      "K.V. Gopalakrishnan"
+    ],
+    "id": "736bef10-b3fc-4538-9b6e-21f550e61da2"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Sri Thyaga Brahma Gana Sabha (Vani Mahal)",
+    "artist_names": [
+      "Ramakrishnan Murthy",
+      "L. Ramakrishnan",
+      "N.C. Bharadwaj",
+      "Vazhappally R. Krishnakumar"
+    ],
+    "id": "7d877a86-276e-4dd7-a100-750effe907b5"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Papanasam ASHOK RAMANIR. Raghul",
+      "R. Sankaranarayanan",
+      "Trichy Krishnaswamy"
+    ],
+    "id": "cff005ff-8846-4d7a-b3b0-c030082ca993"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:45",
+    "venue_name": "Ragamalika TV & GCMA with Aradhan Mini Hall",
+    "artist_names": [
+      "Kanyakumari with Vittal Rangan",
+      "Anirudh athreya",
+      "Triplicane Sekar"
+    ],
+    "id": "ac55b092-a4bb-42aa-bb74-3e3d3c63585f"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:45",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Sikkil C.Gurucharan",
+      "V.Sanjeev",
+      "Delhi S.Sairam",
+      "H.Prasanna"
+    ],
+    "id": "7ee80e97-2e07-4bba-9de9-22fd33265595"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:45",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Dr. VK Arun Kumar",
+      "Sahana Sreeram",
+      "Gopi Lakshminarayanan",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "d30311a7-bea7-49b6-a598-bc48a3ebe855"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "19:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "SHARMILA BISWAS"
+    ],
+    "id": "54ce76ba-1e49-410e-afd2-5fbd06f7d00d"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "19:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "INDIRA KADAMBI & AMBALAM ENSEMBLE"
+    ],
+    "id": "814f8c04-c312-4b68-be0b-c79a1e8467d1"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "19:00",
+    "venue_name": "Narada Gana Sabha - Isai Natya Nataka Vizha 2025-26",
+    "artist_names": [
+      "INDIRA KADAMBI & AMBALAM ENSEMBLE \"KOHAM",
+      "The Search\""
+    ],
+    "id": "3f54a673-b16c-485a-85c9-a15494385573"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "19:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Akkarai Sisters/Sanjay Suresh/B Sundarkumar/Samyuktha Sriram"
+    ],
+    "id": "e9ae2e55-f642-4283-ac8c-55b01c0f094a"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Sri Sai Nrithyalaya Presents \" Ramam Manoharam Manoharam Ramam Part 1 - Dance Drama Based On Epic Ramayanam: Aacharya H N Nandhini Suresh"
+    ],
+    "id": "d61d08c5-549d-4cbe-9872-bfccbd9dc859"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "19:15",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "Rohini Prabhath and Smt. Medhavnini Vakhedi“DAKSHINOTTARAM”"
+    ],
+    "id": "c1784c7e-f5f2-456e-8988-5f550e8731b5"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "22:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "“Ethnic New Year Eve”. Venue: Vani Mahal",
+      "Ethnic New Year Eve"
+    ],
+    "id": "dd79b411-a890-4c77-b52c-7db4716a5735"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "22:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "Harinamasankeerthanam on the eve of New Year 2026 by BRAHMASHRI VITTALDAS JAYAKRISHNA  DIKSHITHAR MAHARAJ"
+    ],
+    "id": "b15e6ba5-65a1-4f3b-aec3-3f6973b6a63e"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Vanitha Suresh",
+      "VV Ravi",
+      "Sai Sarangan Ravichandra",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "41a58fbd-0011-4d5a-ae0d-28a89edb99b4"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Dr Sundararaman Rajagopalan",
+      "Chi V Bhargav Vignesh",
+      "Chi Ajeet Sridhar",
+      "Topic: Rāmānubhavam of Shri Muthuswamy Deekshitar"
+    ],
+    "id": "851381f6-b386-407a-b40a-152b6a4768a0"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "07:45",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Performance by Students of SNSCA"
+    ],
+    "id": "92123601-61e0-4b89-b7c0-156a4da295b9"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "08:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Sri Vedanta",
+      "Sangeetha Vidyalaya"
+    ],
+    "id": "bdd6a9f1-d049-422f-9d9e-a6f60b421a58"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "08:00",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Runners up in Devotional Music Competition",
+      "Devotional Music"
+    ],
+    "id": "7778a6f2-20f9-4693-af19-4385087e751a"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "08:25",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Open House"
+    ],
+    "id": "aaef224e-42bd-4169-ac5c-6f099482506a"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "08:30",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "THIRUMYLAI Dr P VARAMURTHY & KUNDRATHUR T VENKATESANTHIRUVALLIKENI P VISWANATHAN & PURASAIWAKKAMP G KRISHNAMURTHY"
+    ],
+    "id": "6afde7bf-5af4-4afc-8432-418ad6bc75cc"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "08:30",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Janani/V.Mridula/Santhosh",
+      "Kumar Theverkad"
+    ],
+    "id": "c4af82b0-8f05-432f-93f1-08d1476a71f0"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "KUTHUVILAKKU RADHA KALYANAM BY CHAITANYA BHAJAN MANDALI"
+    ],
+    "id": "b641d0f2-922e-4fb1-a535-39e202e277f7"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "09:00",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Lalgudi G.J.R. KRISHN & Lalgudi VIJAYALAKSHMITrichy S. Sankaran",
+      "Dr. Suresh Vaidyanathan"
+    ],
+    "id": "7062e861-a346-4541-b6f2-c8235eff08f1"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "09:00",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Neyveli Dr. S.Radhakrishnan - Double violin",
+      "Abhinav Ganesan & Anirudh Ganesan"
+    ],
+    "id": "25c64459-8b06-4d09-8643-c7425c7d1359"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "09:15",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Mysore M.Nagaraj & Dr. Mysore Manjunath",
+      "Sangita Kalanidhi Thiruvaarur Bakthavathsalam",
+      "U.N.Giridhar Udupa"
+    ],
+    "id": "43dae6bd-f340-45b3-acdb-fc4aef7f30b1"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "09:30",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "Harinamasankeerthanam “Radha Kalyanam:  by BRAHMASHRI VITTALDAS JAYAKRISHNA  DIKSHITHAR MAHARAJ"
+    ],
+    "id": "8791eb7d-56bf-4d03-bc15-019dacd23e99"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "09:30",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "“ Sivan Krithis” by Revathi Subramaniam/Vrinda Varma/Santhosh Kumar Theverkad"
+    ],
+    "id": "ebe601a2-b7db-4aa7-a576-6a6b1b390a3c"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Suryagayathri Sudharshan",
+      "Sudharshan Prasanna",
+      "T. Karthik",
+      "Sarnath - Santosh"
+    ],
+    "id": "c97c102e-9569-426c-8f7a-2d53ae89922e"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Kṛṣṇārpaṇam - Devotional Compositions on Lord Kṛṣṇa by Junior Students of Balabrundam Gurukulam",
+      "followed by Kṛṣṇa Līlā Taraṅgiṇī by Senior Disciples of Guru Smt. Seetha Rajan",
+      "Dr. Sudha Iyer",
+      "T. Sashidhar",
+      "Guru Raghavendra",
+      "Jeyachandran"
+    ],
+    "id": "47dde3a1-7418-45e3-9a78-46c49188005b"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "B.KANNANBOMBAY V ANANDTHANJAVUR K MURUGABHOOPATHIMADIPAKKAM MURALIN SUNDAR"
+    ],
+    "id": "dd803d61-d179-4d9c-ae6a-70bb8b51fa0f"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Narada Gana Sabha - Isai Natya Nataka Vizha 2025-26",
+    "artist_names": [
+      "ABHISHEK RAGHURAMAKKARAI SUBHALAKSHMIBANGALORE ARJUNKUMARSUNAAD  ANOOR"
+    ],
+    "id": "f43a6dc4-f0e8-4a55-a05b-b832844506bc"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Rasika Fine Arts, Chennai",
+    "artist_names": [
+      "Carnatica Brothers - K.N.Shashikiran & P. Ganesh",
+      "Durai Srinivasan",
+      "Sai Nivaeithan & Sai Sarangan",
+      "Adrian Sheriff"
+    ],
+    "id": "c28b2a7d-6e92-4cb0-a608-768514dc0eaa"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "“Sri Srinivasa Kalyanam” By Sri. U.Ve. Velukkudi Krishnan Swamigal",
+      "Sri Srinivasa Kalyanam"
+    ],
+    "id": "d21961c9-7cf7-4c4a-a0b5-deb1599a7022"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:15",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Vidya Kalyanaraman",
+      "B. Ananthakrishnan",
+      "Srihari Raman & Akshanan Mayuran"
+    ],
+    "id": "f13eef70-7b91-4c4e-a8b7-2234493b49ab"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Rithvik Rao Vaddi",
+      "Kailasapathy",
+      "Sriram Srinivasan"
+    ],
+    "id": "2117f3ce-af73-4d4b-8f5e-7036858ebb2d"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "11:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Grand Concert by Mudikondan S N Ramesh/Kancheepuram T.S.Thiagaraj/Soumya Narayanan/ S.Venkataramanan"
+    ],
+    "id": "b16b468a-71a2-48ac-9fda-4ebed3df3f51"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "11:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Thoppur Dr. B. Sairam",
+      "V.V. Ravi",
+      "B. Sivaraman",
+      "P. Giridharaprasad"
+    ],
+    "id": "55a386de-2486-4017-8754-953c9cf5f27e"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "12:00",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Srisruthi Raman",
+      "Abhinav Harishankar",
+      "Rishabh Kalyanasundaram"
+    ],
+    "id": "21aa8cf6-cb0d-451d-8572-b07fd19b45bf"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "12:15",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "AADITHYADEV VA SHREEYANOCHUR NAGARAJ"
+    ],
+    "id": "42270860-49c6-4b0c-b6c3-0b9a11d7ef88"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "12:30",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Performance by Students of SNSCA"
+    ],
+    "id": "c7188b1c-b379-4b78-b385-a9e571706b65"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "12:30",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Vishruthi Girish",
+      "Aparna Thyagarajan",
+      "Aashrith Aravind",
+      "Sai Bharath"
+    ],
+    "id": "772a21d8-b1d2-4b5d-bea8-08f39c5c27a6"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Prithvi Hareesh/ V.Mridula/ Prabhav Nadalla"
+    ],
+    "id": "29f7a56c-44a8-4a91-9e9a-8ab820729fc4"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "13:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "PSBB School Teacher - Singers; Vocal : Kalyani Kalyanaraman",
+      "Jayanthi Balachandar",
+      "Nirmala Devi.S",
+      "Sneha Seshan Kartick",
+      "R. Padmasree Sridharan",
+      "B.M.Ammu",
+      "Sudha Jayaraman",
+      "Sathyaraja",
+      "R Venkataramanan",
+      "Singer & Compere : L.Kalpagam; Keyboard : D Ravishankar"
+    ],
+    "id": "a80670bf-d140-4ea7-814e-698655b2610d"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "13:15",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Himaja Samraj",
+      "Gayathri Sreenivasan",
+      "J P Suriya Nambisan & Surya Ganesan"
+    ],
+    "id": "c7337ee7-b827-4025-9edc-6e07c56307dd"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "13:45",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "MEERA SREENARAYANAN"
+    ],
+    "id": "c6ceceb0-fe76-40ad-ba10-10423cded481"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "13:45",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "“Vedasreni Sisters”-Sumedha-Sarasija/Nivik Sanjay Bharadwaj Ajeeth Sridhar"
+    ],
+    "id": "cbcf5f9b-544e-406c-ab79-86ccf98d9504"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Sriranjani Muthusubramanian",
+      "R. Srikrithi",
+      "N. Anirudh Raj"
+    ],
+    "id": "5e70eb54-9899-44e7-b52c-8d062c219e4a"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "ADITHYA NARAYANAN SDEEPIKA VENKATARAMANAKSHAY ANAND"
+    ],
+    "id": "7cb8cd33-8e2c-4586-94d3-d90b0edeb44f"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Pattabhirama Pandit",
+      "T.K. V. Ramanujacharlu",
+      "Bangalore V Praveen",
+      "Paravoor Gopakumar"
+    ],
+    "id": "b21f9d69-ad33-493c-997d-03d126d383d8"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Sudharshan Padmanabhan",
+      "Balaji Srinivasan",
+      "M. Ramanathan",
+      "R. Ravikrishna"
+    ],
+    "id": "8ab14510-7a19-4a7d-8433-696b396d7785"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:30",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Padmashree Srinivasan",
+      "Mithuran Manogaran",
+      "Madhav Parthasarathy & Navneeth Gopinath"
+    ],
+    "id": "1e7d70d6-e1c6-4641-b4f2-ac9778b7d5eb"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "BHARGAVI CHANDRASEKHARTejas Murali",
+      "Anirudh Suresh"
+    ],
+    "id": "cb2fbe16-3029-4f33-8d00-81dc1c3fd19c"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Smt.Uma Kumar/M Vijay/Yashwant Hampiholi"
+    ],
+    "id": "28a3f04f-e903-4ffa-9814-07c0a518478c"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "15:30",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Rupasri Shankar",
+      "Somnath Dhandibhotla",
+      "Rahul Musti",
+      "Sathya Ganesan"
+    ],
+    "id": "9c24326e-512b-4486-ad96-ffa4428e345f"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "15:45",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Selaiyur Brothers - P V Shanmugham & P V Raghuraman",
+      "Achamangalam A S Saravanan & Pallikaranai P V Bharathidasan"
+    ],
+    "id": "10792162-0766-4fde-943d-7049ece4be77"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "SANGEETHA BHAKTHJI SAMARPANAMVittal Rangan",
+      "Neyveli Narayanan",
+      "V.Suresh"
+    ],
+    "id": "543a66fd-1759-4e79-8283-733b176a7acd"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Sundara Kandam - Harikatha by Varsha Bhuvaneshwari",
+      "Sudha R S Iyer",
+      "Guru Raghavendra"
+    ],
+    "id": "eeda180b-923c-4516-9b68-52ccd42743c4"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "VISHAKHA HARI)B.ANANTHAKRISHNANS.J.ARJUN GANESHTRICHY K MURALI"
+    ],
+    "id": "730105b1-d341-49d1-afd0-e52a81fcbbed"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Narada Gana Sabha - Isai Natya Nataka Vizha 2025-26",
+    "artist_names": [
+      "VISHAKHA HARIB ANANTHAKRISHNANS J ARJUN GANESHTRICHY K MURALI"
+    ],
+    "id": "1ec8f2d9-12a5-4459-a44f-be620b188faf"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Rasika Fine Arts, Chennai",
+    "artist_names": [
+      "Kalaimamani Harikatha Choodamani Girija Ramaswamy",
+      "Neela Jayakumar",
+      "V.R.Jeyakumar"
+    ],
+    "id": "ab0281c1-bcff-4e84-a430-72863ee010c0"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Gayathri Satya",
+      "Kalasri Dr M Narmadha",
+      "Shri Nandan Kashyap"
+    ],
+    "id": "ded69396-9da2-4ff0-8ec1-29d334afb75d"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Dr. GAYATHRI GIRISHR. Raghul",
+      "R. Sankaranarayanan",
+      "S.Krishna"
+    ],
+    "id": "ae0491a4-5b6d-474e-b194-31eb63713bb2"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:00",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "R. SURYAPRAKASHS.R. Mahadeva Sharma",
+      "Tiruvarur Vaidyanathan"
+    ],
+    "id": "b3fb2476-bd74-496e-bbe4-63845f30b3ec"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:15",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "‘Isai Chudar’ Anahita & Apoorva",
+      "Bombay R. Madhavan",
+      "S.V. Ramani",
+      "Sri Sainath"
+    ],
+    "id": "28c5052b-587a-448b-be19-be56d3fc94bf"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Ganesh & Kumaresh",
+      "Patri Sathish Kumar",
+      "Trichy Krishnaswamy"
+    ],
+    "id": "bbcac432-4ea7-42d4-b471-6365b23d6d44"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Dr.V.SUBASHRI“Nada Pallava” Bargava Vignesh",
+      "R Akshay Ram"
+    ],
+    "id": "d1abb93d-b03e-4b01-bfc9-a3a44c1b918b"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Smt. Veena Venkatramani",
+      "Punnur Sri. Arvind Kaushik",
+      "Sri. K.R Sivaramakrishna"
+    ],
+    "id": "1099f5ab-09bb-4b45-bad7-76e8c941565f"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:45",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Concert By Radha Namboothiri/Bombay Madhavan/Arun Chandrahasan/Vaikom R.Gopalakrishnan"
+    ],
+    "id": "b4cb41c4-13a3-49b8-a182-91e40f186c01"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "16:45",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Abilash Giriprasad",
+      "Myan Sudharsanan",
+      "S. Hariharasubramaniam"
+    ],
+    "id": "ac614da2-4c61-4ac4-a519-72c1a46b51f1"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Sri Kanchi Maha Periyava Temple",
+    "artist_names": [
+      "Prithvi Harish",
+      "Subhasree Sivaraman",
+      "A Rohith"
+    ],
+    "id": "c1322dd9-8d09-491b-9c29-6903973d79aa"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "17:00",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "SADAS"
+    ],
+    "id": "b2667242-7daf-47ae-86a9-eb26d0ad3d38"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "17:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Tejaswi Subramanya",
+      "Purva Dhanasree Cotah",
+      "Maanas Sanjay",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "fb3c76ba-37d4-48fd-b56b-2d689f512ac6"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:15",
+    "venue_name": "BGS DECEMBER ART FESTIVAL 2025",
+    "artist_names": [
+      "Chitravina N RAVIKIRAN"
+    ],
+    "id": "308afaf5-0aed-45f3-a357-77b599abf0d8"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Madurai TNS Krishna",
+      "BU Ganesh Prasad",
+      "Sherthalai Ananthakrishnan",
+      "B S Purushotham"
+    ],
+    "id": "5a1974c8-f856-4580-8aa3-0a390d196185"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Valedictory Function"
+    ],
+    "id": "5a965fc0-79a0-4339-8a87-92d1050d9abd"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Mumbai Sundara Raman Bhagavathar and Party",
+      "New Year Special Namasankeerthanam"
+    ],
+    "id": "d793e42a-0ec2-4fa2-b160-4e8308227cf6"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Thiruvarur S. Girish",
+      "Vittal Ramamurthy",
+      "T.R. Sundaresan",
+      "Palghat Krishnarajan"
+    ],
+    "id": "07533581-06f3-4de6-b505-2a3d3f50b643"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "J B SRUTHI SAGARSayee Rakshith",
+      "N C Bharatwaj",
+      "Sai Subramanian"
+    ],
+    "id": "ae7d7f3e-2c52-4ddb-b650-8e19e8a34de1"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Rasika Fine Arts, Chennai",
+    "artist_names": [
+      "S.Varadharajen",
+      "Sri Thiyagarajar - Drama"
+    ],
+    "id": "d49bb1d5-d933-43d6-97bc-468c2c086f7b"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "The Heartbeat Ensemble of Ghatam Dr S Karthik",
+      "Shri Kamalakiran Vinjamuri",
+      "Shri Sarvesh Karthick",
+      "Shri S Sunilkumar",
+      "Shri N Sundar"
+    ],
+    "id": "42453081-1b24-4257-9351-318dcfdb427b"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Dr. NITHYASREE MAHADEVANB.V. Raghavendra Rao",
+      "I. Sivakumar",
+      "Sukanya Ramgopal"
+    ],
+    "id": "c46c916f-d0b6-4d59-9ef7-1be754759c7d"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:30",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "GAYATHRI VENKATARAGHAVANMysore V. Srikanth",
+      "N. Manoj Siva",
+      "K.V. Gopalakrishnan"
+    ],
+    "id": "0a01a368-2e71-4e31-8218-65962c2b0dff"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Grand concert by Shri.Neyveli R.Santhanagoplan /V.V.Ravi /Yella Venketeswara Rao/Vaikom R.Gopalakrishnan"
+    ],
+    "id": "1486b7d4-7a4d-4773-93d8-a177f39cbbb9"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "18:45",
+    "venue_name": "TTVV Trust Festival",
+    "artist_names": [
+      "Delhi Sundarrajan",
+      "Vignesh Thyagarajan",
+      "Tiruvarur Vaidyanathan",
+      "N.Guruprasad"
+    ],
+    "id": "b63b02a0-32dd-4d69-b49b-0ac21b42f407"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "“ MAYA” by PARSHWANATH UPADHYE",
+      "PV ADITHYA",
+      "SRUTHI GOPAL"
+    ],
+    "id": "a01939ab-52b3-4845-9034-b12eaba2de0b"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "19:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "NRITHYODAYA - DR PADMA SUBRAHMANYAM AND ARTISTES OF NRITHYODAYA"
+    ],
+    "id": "ae8e01bb-b4e6-4bb2-bd2c-de1f344b6d3a"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Narada Gana Sabha - Isai Natya Nataka Vizha 2025-26",
+    "artist_names": [
+      "Dr PADMA SUBRAHMANYAM & ARTISTES OF NRITHYODAYA - \"VENKATAKAVI \""
+    ],
+    "id": "1c552307-6412-4698-a9bd-760d6aa58d05"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Sri Kanchi Maha Periyava Temple",
+    "artist_names": [
+      "A S Murali",
+      "Pakkala Ramadoss",
+      "B Sivaraman",
+      "Samyukta Sriram"
+    ],
+    "id": "6c34bd22-00b1-420f-8226-45e6c2264ee5"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "19:00",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Shri Krishna Leela Tharangini",
+      "Sangeerthana Upanyasam by Vijayakrishna Bhagavathar",
+      "Govindapuram Balaji Bhagavathar"
+    ],
+    "id": "0847e981-1688-4239-804d-6d26c53ad3a5"
+  },
+  {
+    "date": "01-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Sound Uduu Stand Up  Comedy Session By Yg Madhuvanthi & Satire Skit 'Misssing - Sukumari Mattuma ? With S Suressh"
+    ],
+    "id": "52d4e045-671e-474a-be2c-b0aa85db5de2"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "‘Sangita Kalanidhi’ RK Shriram Kumar",
+      "K Arun Prakash",
+      "Chandrasekhara Sharma",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "445abea9-871a-4110-bce5-da2625ee3527"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Prabha Senesh/ Smt Maithrayee Badrinarayanan",
+      "Topic:Bhagavatham"
+    ],
+    "id": "d00cd55a-3e74-4641-a08b-1dbadb6121c6"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Villianur G. LALITHAGopi Lakshminarayana"
+    ],
+    "id": "74a95668-36af-42c7-8c6b-250052976b01"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Sanjay Suresh & Keshav Mohan Kumar",
+      "S. Hariharan",
+      "Sumukh Karanth"
+    ],
+    "id": "f3fcbb17-78f6-4b16-ab66-aed43d39249e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "10:30",
+    "venue_name": "Ragamalika TV & GCMA with Aradhan Mini Hall",
+    "artist_names": [
+      "Amrutha Venkatesh",
+      "Bombay Madhavan",
+      "S J Arjun Ganesh",
+      "Chandrasekhara Sharma"
+    ],
+    "id": "76cda311-bee9-42c2-98bc-b24256852d8f"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "VISHWAS HARI & HARIPRASAD SUBRAMANIANKaushik Sridhar",
+      "Shamita Gowda"
+    ],
+    "id": "1e89badd-5f21-4514-9d88-38e6ce08e374"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:00",
+    "venue_name": "MAARGA",
+    "artist_names": [
+      "Veena Venkataramani",
+      "Sanjeev Raja"
+    ],
+    "id": "19b2a037-4dab-4b3c-a555-a7267b3ec5c4"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Prameela Mandayam",
+      "Pramati Barath",
+      "Srivatsan Srinivasan"
+    ],
+    "id": "e2f62bb7-a9d7-405b-8bbe-3bae014c0933"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "B.U.Ganesh Prasad/Eswara Varma/Poovalur Sriji/H.Sivaramakrishnan"
+    ],
+    "id": "f961f689-fcfe-4147-ba20-8584b875e3af"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:10",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "Varun Sivakumar"
+    ],
+    "id": "f6ba36a9-c3f6-4aba-a75a-99e9dbcb921a"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:30",
+    "venue_name": "Arkay Convention Center",
+    "artist_names": [
+      "Supriya",
+      "Visesh Uppoor",
+      "Myan Sudharsan"
+    ],
+    "id": "07473275-c9b3-4216-9e89-64cf6ccbc830"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Samanvitha Sasidharan",
+      "Haritha Narayanan",
+      "Adarsh Devarajan"
+    ],
+    "id": "4fc8d3e2-7140-431b-9f55-50a8e12dcee5"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "S.N. Sasanka",
+      "Somanath Dandibhotla",
+      "Srivathsan Srinivasan"
+    ],
+    "id": "d684992d-12c1-4343-afe6-f357bf51eca1"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "09:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SHILPA SADAGOPALANSudarshan Prasanna",
+      "Pranav Krishnan"
+    ],
+    "id": "44735c31-c373-457f-9ecf-68a8ac4dd016"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Samyutha Srinivasan",
+      "R. Swadi Sri",
+      "Hari Ramachandran"
+    ],
+    "id": "8527067c-04db-4f05-b4d5-280439b936c0"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Prof. Somasundaram Venkateswaran",
+      "M.A. Krishnaswamy",
+      "Vignesh Ravi",
+      "D.V. Venkatasubramaniam"
+    ],
+    "id": "cc6b472d-75b6-4bea-8455-d8d1f53c0e81"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "10:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Vaibav Ramu",
+      "Sameth Sitaram",
+      "Myan Sudarshan"
+    ],
+    "id": "ede9822c-c364-4efd-bfae-331205159455"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "11:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Pragadeesh Shanmugaraja",
+      "V.V. Srinivasa Rao",
+      "B. Ganapathiraman",
+      "Trichy Dr. K. Murali"
+    ],
+    "id": "c009a1f0-a718-495d-9161-009d3ad992ae"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "12:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "AADHYA SREEDHARANKarthik Subramaniyan",
+      "Ashwath Karunakaran"
+    ],
+    "id": "0a95651a-a9ca-4520-b82c-33349311478f"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sahana Ranganathan",
+      "Parur M.K. Ananthabalasubramaniam",
+      "Madhav Manikandan"
+    ],
+    "id": "62b5e64b-12e6-4b37-b700-fc8b2c9ee611"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "13:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Bhargavi Chandrasekaran",
+      "Vignesh Nydhruva",
+      "Sanjeev Subramanian"
+    ],
+    "id": "4e464667-7f0f-4eb9-9498-7e03d150881b"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sanjana Raman",
+      "Sahana Sriram",
+      "Dr. Seetharaman"
+    ],
+    "id": "3e91f9c2-7183-470d-a94e-f219f3ad6748"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "14:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Dr. Rohith Chandrasekar",
+      "Keerthivasan Krishnan",
+      "Vignesh Ravi"
+    ],
+    "id": "9944acd6-7316-49fd-a148-14bd4a8a5308"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "“Shri Sisters” Madhuvanthi Vijayaganesh & Sumetha Vijayaganesh",
+      "Prahlad Saravanpriyan",
+      "Gopal Ravindran"
+    ],
+    "id": "2d3be16e-8a2a-4b2c-8a8c-04930f7ead97"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Anirudh Raja",
+      "Prithvi Bhaskar",
+      "Srikar Chittari",
+      "Sai Bharath"
+    ],
+    "id": "02952bb3-38f6-4b7f-88d2-4ca07e23a9ce"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Mylai M Karthikeyan; Nadaswaram Support: Gummudipoondi R Gnananvel",
+      "Panappakam G Tamizhselvan - Thavil",
+      "Mandaveli S Mohanraj - Thavil",
+      "Jaya Ganesh"
+    ],
+    "id": "02c3ad60-4b7c-40c8-817b-584cf1f58636"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "AKKARAI SISTERS SUBHALAKSHMI & SORNALATHAArjun Kumar",
+      "Thanjavur T.R.Govindarajan"
+    ],
+    "id": "0485eb3e-6239-4c35-808c-4e7dcde6f137"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Shardul Krishnakumar",
+      "Shreelakshmi Bhat",
+      "Trissur Sudev"
+    ],
+    "id": "877e6ae9-3242-4822-87ba-d2b7139d7925"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Santh Charana Dasi Mansa Ravi & Team",
+      "Topic Sundarate Dhyana"
+    ],
+    "id": "6e68e393-0b12-4d06-addc-6fd96e980c0d"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:15",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Rupasri Shankar",
+      "Chetana Shekar",
+      "Aduthurai Guruprasad"
+    ],
+    "id": "eef98f14-9340-4d3a-92ab-72b515f3b100"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "ARCHANA & AARATHIMadan Mohan",
+      "Akshay Ram"
+    ],
+    "id": "0e2d0ff1-47de-43b1-b4a4-47cf2bff8add"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Uma Ranganathan",
+      "Ms. Sahana Vasudevan",
+      "Sri. Aditya Rajkumar"
+    ],
+    "id": "f6e25025-171e-40bf-87ae-43641e0d6846"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "16:45",
+    "venue_name": "Sci Art, RUs - BVB Margazhi Matram 2025",
+    "artist_names": [
+      "Inclusive Choir by Sargam Choir led by Dr. Sudha Raja"
+    ],
+    "id": "55e05da3-b9fd-48c9-9542-6e57ddf1affc"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "G. Ravikiran",
+      "Vaibhav Ramani",
+      "Guru Raghavendra"
+    ],
+    "id": "0edf77b1-8a80-45ce-be19-ad7de17752d4"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "17:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Manasa Subramanian",
+      "Parur M. K. Ananthabalasubramanian",
+      "Anuraag Prakash",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "459042c0-0d9f-411c-9d5c-2203312c8de4"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Prasanna Jeer Presents \"Shivee"
+    ],
+    "id": "248e0774-051a-4f1c-bb72-f4e7218f7c95"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Sci Art, RUs - BVB Margazhi Matram 2025",
+    "artist_names": [
+      "Namagiripettai Gokul and party"
+    ],
+    "id": "f3be96b5-3839-4bcc-b65e-bba7f6d1724a"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Smt. AARTHI NARAIN Disciple of Smt. Nartaki Natraj"
+    ],
+    "id": "5ce7e5de-10a4-4273-87e3-1e0042b77be1"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Swaratmika Srikant",
+      "Sayee Rakshith",
+      "Vijay Natesan",
+      "Vazhapally Krishnakumar"
+    ],
+    "id": "22f1263b-6130-4326-829a-6b22058f275b"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Nisha Rajagopalan",
+      "B U Ganesh Prasad",
+      "N Manoj Siva",
+      "Sunil Kumar"
+    ],
+    "id": "48365807-f52b-4823-971b-77dcd5b34092"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "THIRAIYIL MALARNTHA SANGEETHA MALARGAL - Spl program by Subhashree Thanikachalam & Team with LIVE ORCHESTRA featuring film songs based on classical music",
+      "THIRAIYIL MALARNTHA SANGEETHA MALARGAL-"
+    ],
+    "id": "e257f894-43b2-4be2-9287-edee27bc2c60"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Dharini Kalyanaraman",
+      "C.S. Chinmay",
+      "M.S. Varadhan",
+      "Bhagyalakshmi M. Krishna"
+    ],
+    "id": "6337bbfe-88ae-4e56-af6b-b71de6f6583f"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "K S VISHNUDEVL Ramakrishnan",
+      "Sumesh Narayanan",
+      "Vellattanjoor Sreejith"
+    ],
+    "id": "58cc9603-66c6-4232-a6b0-f383ec6e5dba"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Sikkil C Gurucharan",
+      "Shri Kamalakiran Vinjamuri",
+      "Shri N C Bharadwaj",
+      "Shri Shriram Ramesh"
+    ],
+    "id": "04f16338-d4ca-416c-bde0-25e7f0236279"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Sci Art, RUs - BVB Margazhi Matram 2025",
+    "artist_names": [
+      "Akshaya Hari and party"
+    ],
+    "id": "c2894f32-4dd7-43dd-8fe8-dec6ee60a770"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "18:45",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "'Projekt Purandara' by students of Abilash's International Carnatic Academy",
+      "Pranav Praveen",
+      "Ayushman Sairam & Kedar Sankarram",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "12a5c312-5727-4154-b141-108ca1125c4e"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Amrutha Venkatesh",
+      "Bombay R. Madhavan",
+      "Delhi Sairam",
+      "Chandrasekhara Sharma"
+    ],
+    "id": "470c36d6-6b27-49db-9a5c-e98af88c19b0"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "PRIYA MURLE"
+    ],
+    "id": "e052f727-cd59-4e7a-9027-d9fad2256343"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Dr Ambika Kameshwar And Rasa Kalaikuzhu Present \"Margazhi Mahimai \" An Indian Dance Theatre Production Celebrating The Sacred Month Of Margazhi Through Story Naaratives",
+      "Music",
+      "Dance And Drama"
+    ],
+    "id": "8b57f63f-f9d2-48b8-962c-8504628ebaa1"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. AANANYA MAGESH Disciple of Smt. Aishwarya Balasubramanian"
+    ],
+    "id": "a545777e-6320-4786-b8b3-ff141b882979"
+  },
+  {
+    "date": "02-Jan-2026",
+    "time": "20:00",
+    "venue_name": "Sci Art, RUs - BVB Margazhi Matram 2025",
+    "artist_names": [
+      "Karaikkal Jaishankar and party"
+    ],
+    "id": "cf4134a7-721a-4fbe-b6ba-de2294e4a22b"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Sandeep Narayan",
+      "HN Bhaskar",
+      "Nirmal Narayan",
+      "N Guruprasad",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "e5b08f9b-281c-4eb2-a708-d40296daeba9"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Prabha Senesh/ Smt Maithrayee Badrinarayanan",
+      "Topic:Bhagavatham"
+    ],
+    "id": "8a60f5b2-ca34-43ca-98c7-faa2c444f73b"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Vignesh Thyagarajan & Aparna Thyagarajan",
+      "B. Sivaraman"
+    ],
+    "id": "1c56f474-9c8c-41b6-9134-b859a6886deb"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "09:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "PETREZA SABUSriya Venkat",
+      "Navneeth Gopinath"
+    ],
+    "id": "e2b65da8-f774-4cea-8a7e-67aeba022a0a"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Taarun Ganesh",
+      "Shalini Namaduri",
+      "Srivatsan Srinivasan"
+    ],
+    "id": "da933780-7afe-4ef7-80b8-6ee5a21b779d"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Vanitha Suresh",
+      "B. Raghavendra Rao",
+      "B Ganapathyraman"
+    ],
+    "id": "3a3413b8-cacf-48ea-96c8-f684cdecfbd7"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "10:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "RASIKA SIVAKUMARDevanarayan",
+      "Sriram Natarajan"
+    ],
+    "id": "885703cf-d327-41b4-9495-832ead0de777"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "11:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Vasanth Ranganathan",
+      "Sameth Sitaram",
+      "Master Ashrith Aravind"
+    ],
+    "id": "7cb0ab52-bc14-4916-9c06-e0ffaaa99959"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "12:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SAHANA RENGANATHANSrinivas Vadiraj",
+      "A P Mahizhan"
+    ],
+    "id": "65ffbb94-5d5d-4e9d-a39c-761ca149e608"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sharanya & Bhavana Srinivasan",
+      "S. Gayathri",
+      "Darshana Srinivasan"
+    ],
+    "id": "41d54dab-2cb7-424f-8e17-ca4c5c8997b9"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "13:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Dr. Shiv Subramaniam",
+      "Sudarshan Prasanna",
+      "Saketh Prabha"
+    ],
+    "id": "3325d90b-4f71-4666-b360-a63082813464"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Mahati Sudhakar",
+      "Raghavendra Prasath",
+      "Varun Rao"
+    ],
+    "id": "06a3b498-8f32-41d0-9b37-39f2843f1b4d"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "14:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Athriya Krishnan Balaji",
+      "Akshara Balaji",
+      "Prashanth Ravichandran"
+    ],
+    "id": "6eee42b3-8cdb-4131-a878-8bd84bb5b253"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "ABHINAYA ANANTHANARAYANANArunachala Karthik",
+      "Ashrith Aravind"
+    ],
+    "id": "cad0800f-b612-4853-9d17-94d5fe391158"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Dr. Sanjay Subramanian",
+      "Lavanya Kodandaraman",
+      "Burra Sriram"
+    ],
+    "id": "4cac2f8e-6b5b-4a49-af1e-260cd10a7e4e"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "Dr.B.VIJAYAGOPAL & MYLAI KARTHIKEYANB.Harikumar",
+      "Trichy Krishnaswamy"
+    ],
+    "id": "fcfa7940-0127-485a-9c3a-8c9142ea3671"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Anugrah Lakshmanan",
+      "Shraddha Ravindran",
+      "Sudharshan Srinivasan"
+    ],
+    "id": "eb86cab9-f971-4bb5-8d36-9eb981c9d1c5"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Sanjay Suresh & Kum VSP Gayathri Shivani",
+      "Shri S Hariharan",
+      "Shri Shamith S Gowda"
+    ],
+    "id": "b8dc7c50-18e2-4096-b545-ee94e3fa1e60"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Aadhya Sridharan",
+      "Sri. Bargava Vignesh",
+      "Sri. Ram Smaran"
+    ],
+    "id": "ab07acd9-c6d6-4403-9099-185e8f5021d2"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:15",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Priya Krishnamurthy",
+      "Jeysri Balaji",
+      "Sridharan Sivakumar"
+    ],
+    "id": "9955c163-3a75-4d13-883d-68ed43766e67"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. SHWETA SRINIVASAN Disciple of Dr. Lavanya Rajagopalan"
+    ],
+    "id": "3feb4f3d-bbb7-4212-abad-ece8096dc9df"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "ABILASH GIRIPRASADThirucherai Karthik",
+      "R Akshya Ram",
+      "V Sai Subramanian"
+    ],
+    "id": "cffe6ccb-33df-4f2b-bd40-36801f33c10f"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Tiruvarur Girish & Thirumeignanam Ayyappan",
+      "Gyandev Pappu",
+      "Dr. R. Mohan Krishnan",
+      "B.S. Purushotham"
+    ],
+    "id": "d3976464-9fe7-433a-bf3c-24894c473a1d"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "17:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Avaneesh Polaconda",
+      "Shreeya Ananth",
+      "Ashwin Balaji",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "6a0a387f-de55-4981-8a99-b3bb86f63857"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Nrithya Bhuvanam School Of Dance  Dubai- Guru: Bhuvaneswari Rathinam"
+    ],
+    "id": "dd3274bb-b06c-44a4-a016-477eb252016d"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Sri. Hari Kishan",
+      "Sri. Visesh Uppoor",
+      "Sri. Nandan Kashyap"
+    ],
+    "id": "b129e919-3202-4ead-9082-52c9860bf491"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. ANJANI CHEBROLU Disciple of Smt. Raji Krishna"
+    ],
+    "id": "14a6713a-0862-4a55-9959-d8b7bbe5666b"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "K. Bharat Sundar",
+      "Parur M S Ananthakrrishnan",
+      "Praveen Sparsh"
+    ],
+    "id": "66e0dd1c-7b56-4514-a1ee-8b82cb9eefca"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Rasika Viswanath",
+      "Meera Sivaramakrishnan",
+      "J. Vaidyanathan",
+      "Sowmiya Narayanan"
+    ],
+    "id": "2909a7af-24b9-43f1-b8f6-bc715a33cf2e"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "RAMAKRISHNAN MURTHYSruti Sarathy",
+      "N C Bharadwaj"
+    ],
+    "id": "08fcc471-67b4-4f7a-a9e8-8bbf535d641e"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Sunil R Gargyan",
+      "Shri Vittal Rangan",
+      "Sangita Kalanidhi Dr Trichy Shankaran",
+      "Dr K V Gopalakrishnan"
+    ],
+    "id": "d2e20148-1a1c-43fe-b7f0-0823130ddaca"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "18:45",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Yaso Ponnuthurai",
+      "Chetana Shekar",
+      "Nikshith Puthur; Varun Rao",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "571c1798-6828-48f8-8af7-3718d834d3a0"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Nithyasree Mahadevan",
+      "V.V.S. Murari",
+      "Karaikurichi N. Mohan Ram",
+      "H. Sivaramakrishnan"
+    ],
+    "id": "ca468c0c-b7ed-40cc-b344-8d1dd8309215"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "JAIKISHORE MOSALIKANTI Presents by “TRIYAMBAM” Kuchipudi thematic Presentation by Shivamohanam"
+    ],
+    "id": "5987ef4b-d2ab-4bb3-a023-aa315908cc97"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Anjana Rao",
+      "Chidambaram Sri. Badrinath",
+      "Sri. Sunil Subramanyan"
+    ],
+    "id": "68bb12a0-3a8b-4775-a9da-095f5c14e279"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Lekha Prasad & Group Bharathanatyam production “Vinayagar Naan Mani Maalai” Disciple of Kalaimamani Smt.Priya Murle"
+    ],
+    "id": "87c81c0b-a2f2-4b5f-a973-b675ccd47677"
+  },
+  {
+    "date": "03-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. RITHIKA IYER Disciple of Smt. Gayathri Sriram",
+      "Singapore"
+    ],
+    "id": "b676df94-1890-4efe-ad67-dc84fbc448b7"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "S Saketharaman",
+      "Gayathri Shivani",
+      "Arvind Ranganathan",
+      "Sowmi Narayanan",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "4c7c1d23-f4ec-41d5-81db-bd070bb7793a"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Prabha Senesh/ Smt Maithrayee Badrinarayanan",
+      "Topic:Bhagavatham"
+    ],
+    "id": "cad76fd2-6f7b-43dd-af35-d59b20e5d976"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Shashank Mahesh",
+      "Srihari Vittal",
+      "Annirudh Suresh"
+    ],
+    "id": "84464aed-2e1f-4ae4-9b4a-e37342ee2c96"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "09:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SUHASINI HARSHAAbhinav Shankar",
+      "Prabhav Nadella"
+    ],
+    "id": "ef003542-c888-4719-a229-0bf62eac7fe1"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Carnatica Brothers & Party"
+    ],
+    "id": "159c699c-7683-460a-b1ca-a18650d99cff"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Shruthi Shankar Kumar",
+      "Bombay Madhavan",
+      "B. Ganapathyraman",
+      "K.V. Gopalakrishnan"
+    ],
+    "id": "498a6512-0b95-4d04-bb24-0912fbf37151"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "10:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SANJANA RAMANArunachala Karthik",
+      "Dr Sitaraman"
+    ],
+    "id": "af4f89dc-cc36-4850-8376-7066374ab245"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "12:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "VAISHALI YOUARAJANParur Ananthalakshmi",
+      "Dashana Srinivasan"
+    ],
+    "id": "f7c2b274-b7fc-4715-b762-a6866858382d"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Madhura Sriram-Vocal",
+      "Karthik Subramaniam",
+      "Umesh Gopi"
+    ],
+    "id": "225f5127-49fd-4a96-bebc-e382abc7b864"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Adithya Sridhar",
+      "Chetana Sekhar",
+      "Jayendra Kumar"
+    ],
+    "id": "775e5d8f-1e4e-44bc-ba68-ff4c41db4fc2"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Manasa Subramaniam",
+      "Devanarayan",
+      "Ashwin Balaji"
+    ],
+    "id": "f1f081d3-58d4-4cb6-a341-29f782120287"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "“Nada Pallava” NANDITHA KANNANParur Ananthalakshmi",
+      "Ajeet Sridhar"
+    ],
+    "id": "c423053a-f5bb-4772-b8b2-6ad091d1c36a"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Dhanya Dinesh Rudrapatna",
+      "Sanjay Sharma",
+      "Trichy S.G. Venkataraman"
+    ],
+    "id": "7493bf5e-dd91-4469-85a7-a19723fe5807"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Abhilash GB Ananthakrishnan",
+      "Thanjavur K Murugabhoopathi",
+      "Chandrasekara Sharma"
+    ],
+    "id": "a36eee94-80e4-4ce4-9d74-05bf73ada12c"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Samyutha Srinivasan",
+      "Prahalaad Varahaswami",
+      "G Ganapathy"
+    ],
+    "id": "f52bf072-a09a-4fa5-9caf-4f17d98e4a55"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Arya Suri",
+      "Shri  V Bargava Vignesh",
+      "Shri Suriya Nambisan",
+      "Shri S Sunil Kumar"
+    ],
+    "id": "3cbef8b6-1657-4a69-9a19-bf0649c5541f"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Vibha Shivarajan",
+      "Sri. Srihari Vittal",
+      "Sri. Pazhani Balaji"
+    ],
+    "id": "2e25eb40-3f2d-43dc-bec4-7f99faa52ef8"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. RAKSHITA SIVAKUMAR Disciple of Smt. Padmini Krishnamurthy"
+    ],
+    "id": "900f2333-d45b-462f-a5d5-7c045c514c3d"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "“Naan Arindha Desigar” நான் அறிந்த தேசிகர்- A Tribute To Dandapani Desikar By Sikkil C. Gurucharan",
+      "Kamalakiran Vinjamuri",
+      "V.G. Vigneshwar",
+      "Akshay Ram"
+    ],
+    "id": "dff44c13-a828-451a-9018-1dd2263192a0"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "RITHVIK RAOAnandha Balasubramanian",
+      "Sarvajith"
+    ],
+    "id": "a15a6594-2312-48c9-afee-7ce556db3e78"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Pattabhirama Pandit",
+      "T.K.V. Ramanujacharyalu",
+      "Bangalore V. Praveen"
+    ],
+    "id": "2c352d88-6505-403e-8b7a-76ea460acf5f"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "17:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Saakshi Challa",
+      "Akshara Balaji",
+      "Umesh Gopi",
+      "Poornima Sai",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "6e805a22-19ed-4aa5-af50-d0b58e7750a7"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Sri. Manoj R SSri. Rishabh Ranganathan",
+      "Madurai Sri. S Viknesh"
+    ],
+    "id": "f81fd453-f67b-4848-be83-d43524d2e0d7"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. DHINUSHRI SIVAKUMAR Disciple of Smt. Gayathri C. Ramesh"
+    ],
+    "id": "4c8dabf0-e1aa-4110-a87b-a95a7af8c4d0"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "11:45",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "J. Yoga Kirtana",
+      "P. Akshaya",
+      "Mysore L. Vadiraj"
+    ],
+    "id": "15207bbc-632c-4af9-a9fb-d623bb505afc"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Vignesh & Aparna",
+      "Sarvajith Krishna Mohan"
+    ],
+    "id": "d318c705-7b06-4d4f-a9a5-004d3ec64ad9"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Ria Kaushik",
+      "Abhinav Shankar",
+      "Prabhav Nadella"
+    ],
+    "id": "9476d3f9-dd08-4186-bcf3-338ea417e254"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:15",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "VIKRAM IYERSWETHA NARASIMHANSABARINATH RAMACHANDRAN"
+    ],
+    "id": "a7dee29e-6537-4e8c-94c2-8eb9fcf49e6b"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:15",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "Tanish Karthik"
+    ],
+    "id": "989abe50-646f-439e-895b-c8d97604082f"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:30",
+    "venue_name": "MAARGA",
+    "artist_names": [
+      "Ranjani Radha",
+      "Shreelakshmi Bhat",
+      "Nandan Kashyap"
+    ],
+    "id": "1ba82235-15cd-4cae-9204-00c197301e85"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:30",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Performance by Students of SNSCA"
+    ],
+    "id": "66809161-123d-44db-9aa2-2f07ae0b6133"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "12:30",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Subhathra Sridharan",
+      "Sanchith Narayanan",
+      "Lalit Kovvuri"
+    ],
+    "id": "2e46068f-aa6d-4fbe-8bc7-e51d0746562e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:00",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "Students of Sir Sivaswami Kalalaya Senior Secondary School",
+      "Mylapore Vocal : B V N Lalitha Sivaramani",
+      "Sanjana Prasad",
+      "Keerthana .N",
+      "Prahlad.S",
+      "S Vishvaksenan. Mridangam : Manikandan Keyboard : Aravindh Subramanian",
+      "Manikandan",
+      "Keyboard : Aravindh Subramanian"
+    ],
+    "id": "b4005ffa-26a1-4965-804b-6862176211b0"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "ADITYA MADHAVANB.Ananthakrishnan",
+      "Kumbakonam Swaminathan",
+      "V.Sai Subramaniam"
+    ],
+    "id": "5f56c5d5-e6ce-4e2b-8301-8d2519a18d43"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Vittal Rangan",
+      "Kedar VN C Bharadwaj",
+      "G Guruprasanna"
+    ],
+    "id": "a82621be-17d2-4475-8701-dac1aa5e0f26"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "T.K.Ramachandran",
+      "Bombay Madhavan",
+      "B Sivaraman"
+    ],
+    "id": "8876ce53-f2a1-4a08-863d-2659bd50e6ed"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SID SRIRAMNada Vallabha S Varadarajan",
+      "Nada Vallabha Neveyli Venkatesh",
+      "Anirudh Athreya"
+    ],
+    "id": "f5feb17d-4de9-4690-b362-e056c5da2255"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Palghat Ramprasad",
+      "Shri S Varadarajan",
+      "Patri Shri S Satish Kumar",
+      "Shri K V Gopalakrishnan"
+    ],
+    "id": "92612242-e9fb-4d5c-8096-ac4ab63cb1e3"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "18:45",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Sherthalai Shravan Sharma",
+      "Saketh Pantula",
+      "Ram Siva",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "bbaf5bbf-28d2-4b2e-a13c-7013fa82c438"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Neyveli Santhanagopalan",
+      "R. Raghul",
+      "Shankar Santhanagopalan",
+      "S. Sunil Kumar"
+    ],
+    "id": "f226bc7b-1f53-4d00-a3e7-0aef187d897f"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Trivandrum Sri. S. Mahadevan",
+      "Smt. Shraddha Ravindran",
+      "Sri. S. Kavichelvan"
+    ],
+    "id": "3fe7ae6f-16dd-4b1b-a987-337f73180713"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Ranjani Vinoth Kumar"
+    ],
+    "id": "ee0e6204-3d3a-41ec-8023-3b42607c3937"
+  },
+  {
+    "date": "04-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. ANJALI TALLURU Disciple of Sri Santhosh Radhakrishnan"
+    ],
+    "id": "ae4bb5aa-6b89-426d-aaad-41642588d5a8"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Jayashree Vaidhyanathan",
+      "Durai Srinivasan, Chennai Thyagarajan",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "bf0d348a-c227-4083-90a4-2828f0a20d33"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Udaiyalur Dr K Kalyanaraman Bhagavathar",
+      "Shri Babu rajasekaran"
+    ],
+    "id": "7fb2a08b-ad76-48e8-802a-18b3398a15ba"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sreeranjane Kaushik",
+      "M Muthusamy - Harmonium",
+      "A.V. Manikantan",
+      "Pramodh Prabhu - Tabla"
+    ],
+    "id": "c11c0fd8-72a3-4eba-816f-32f94698cd4a"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Abhinav Kailash",
+      "Niveditha Doraiswamy",
+      "Anghiras M"
+    ],
+    "id": "c16d4192-c1a1-4754-952b-18a62aa07df3"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "10:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Vassanth Ranganathan",
+      "Niveditha Doraiswamy",
+      "Chidatma Changanti"
+    ],
+    "id": "ba274e3c-9d02-405e-8189-c3c5cda5b26d"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Nithyasree. SSriram Srinivasan"
+    ],
+    "id": "fe6c46fe-e027-4e3b-825e-e5429463ba19"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "11:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Srikar Satish",
+      "Niveditha Doraiswamy",
+      "Vishal Setlur"
+    ],
+    "id": "0499eca5-2856-40df-8e9c-a2568d2f8649"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "12:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Shubhada karnamadakala",
+      "Parur MK Ananthalakshmi",
+      "Chidatma Changanti"
+    ],
+    "id": "7b7f430c-8e33-4739-b198-faec4c26a97c"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Namagiripettai Gokulakrishnan",
+      "Bargava Vignesh",
+      "Hari Ramachandran"
+    ],
+    "id": "bdf7b1f1-6487-4d7a-a8b6-5bbc6cc16a2a"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Sci Art, RUs - BVB Margazhi Matram 2025",
+    "artist_names": [
+      "Namagiripettai Gokul and party"
+    ],
+    "id": "22793e9e-edf3-4be1-a523-149ed3acf91b"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "13:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Shruthi Kumar",
+      "Parur MK Ananthalakshmi",
+      "Vishal Setlur"
+    ],
+    "id": "01d29bbb-4c67-4cd5-b7fa-b651df3b48ec"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Ranjani Radha",
+      "Saketha Pantula",
+      "Sarvesh Karthick"
+    ],
+    "id": "cddc68b0-37e9-4be4-8461-cde1040aed7f"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "ARCHANA & SAMANVISrilakshmi Bhat",
+      "Sunada Krishna Amai"
+    ],
+    "id": "f5907f94-bb3a-4fa8-a37e-55319998822f"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Prithvi Harish",
+      "Haritha Narayanan",
+      "A. Rohith"
+    ],
+    "id": "ca1406b8-f44c-4a47-b82e-bd5d4449248f"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Anirudh Venkatesh",
+      "L Ramakrishnan",
+      "B Ganapathyraman",
+      "Dr. S Karthick"
+    ],
+    "id": "fda57919-6844-494e-b1e7-d202e1acaf25"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Prajna Adiga",
+      "Thanmayi Upangala",
+      "Aravind Kundurthi"
+    ],
+    "id": "c52dddc0-703d-44a2-b767-8b1f3b3f6d5f"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "4e6137df-12d0-4a1c-935d-31873fb885a2"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Dr. DEEPIKA JANAKIRAMANNada Pallava Bargava Vignesh",
+      "Ajeeth Sridhar"
+    ],
+    "id": "95283a3a-6ec3-493a-aa5a-c92c4af52eb1"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Jayashree Vaidyanathan",
+      "Madurai T. Kishore",
+      "Neyveli K.V. Ramkumar",
+      "K.M. Ranganathan"
+    ],
+    "id": "f1de8afd-2d28-41d6-8ad0-25ab371ab4cd"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Sruthi Venkataraman"
+    ],
+    "id": "53e58163-ef35-4208-a8cc-7cf40e7b6047"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Ramyapriya Devarajan  Disciple Of Acharya Srikala Bharath"
+    ],
+    "id": "e359f65b-6802-4782-99a7-629f559656fa"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "17:45",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Rukshana Kumar"
+    ],
+    "id": "717b63b3-a439-436c-9db7-995b9ac44766"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. ABHINAYA .V. Disciple of Kum. Anu Bhaskaran"
+    ],
+    "id": "cbfa9972-ffac-47e1-ae2e-c919823fef4f"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Ranjani Sivakumar",
+      "C S Chinmayee",
+      "S J Arjun Ganesh",
+      "N Guruprasad"
+    ],
+    "id": "51f3e57b-c5c8-4455-8636-2ebad784cbb1"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Dr. Brindha Manickavasakan",
+      "Dr R Hemalatha",
+      "N Manoj Siva",
+      "B S Purushotham"
+    ],
+    "id": "ffbaf096-3751-4be7-9804-b2ff8dba7b2c"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "AMRUTHA VENKATESHRajeev Mukundan",
+      "N C Bharadwaj",
+      "Chandrasekhara Sharma"
+    ],
+    "id": "5333b4f0-5357-462f-b582-c971f8362185"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Dr V K Arun Kumar",
+      "Parur Shri M A Krishnaswamy",
+      "Palladam Shri R Ravi",
+      "Trichy Shri S Krishnaswamy"
+    ],
+    "id": "83bd1e21-f531-4477-b3b6-2e3e9994b322"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Priyadarshini Radhakrishnan"
+    ],
+    "id": "28617720-7685-4013-bf98-3160914d60b4"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sankari Krishnan",
+      "Bombay R. Madhavan",
+      "Sai Raghavan",
+      "Papanasam Sethuraman"
+    ],
+    "id": "7d8d4246-06cb-4c21-8a06-6fa1375cf059"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Narayanayeti Samarpayami  A Thematic Group Production By Disciples Of Padmini Krishnamurthy"
+    ],
+    "id": "ec04281f-0e49-4878-a5bd-7ca565da1643"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Avanthika Balachandar"
+    ],
+    "id": "793e34bb-4699-48fa-9e51-fb992fca68df"
+  },
+  {
+    "date": "05-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. SHRADDHA SRIDHAR & Kum. MEGHA SURESH Disciples of Smt. Ashwani Viswanathan"
+    ],
+    "id": "84a475fc-f373-410d-8d85-3f4451c3f0a4"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Vijay Gopal",
+      "Anjana Srinivasan",
+      "Poongulam Subramanian",
+      "S. Venkataramanan",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "b8ca2a26-7639-499f-8ca0-ceab1dfe6c19"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Udaiyalur Dr K Kalyanaraman Bhagavathar",
+      "Shri Babu rajasekaran"
+    ],
+    "id": "50fb8bfe-fe1f-47d1-bce8-f75dca8417a3"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Uma Ramakrishnan",
+      "R.S. Sudha Iyer",
+      "Pichai Vinith"
+    ],
+    "id": "2cbaa7c4-23c4-4e34-885a-98708997a3ef"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Shanthala Subramaniyam",
+      "Keshav Mohan Kumar",
+      "Cherthalai Ananthakrishnan",
+      "S. Sunil Kumar"
+    ],
+    "id": "94ecf2e1-7b64-42a3-a473-73b838ea1e4a"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Madhavi Prakash",
+      "Sudarshan Prasanna",
+      "Sarvajith Krishna"
+    ],
+    "id": "255d9809-c30f-4196-818c-6b694dd27d04"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Nanditha Kannan",
+      "Gayathri Vibhavari",
+      "Pranav Subramanyan"
+    ],
+    "id": "b111f569-be0d-4c77-82f9-4d820ec0803c"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "PREETHI & MAHATHIArunachala Karthik",
+      "Vishnuvarthana.K"
+    ],
+    "id": "35148dfb-f859-42ea-8bff-936411ed89a8"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Shruthi Bhat",
+      "Shreelakshmi Bhat",
+      "Prajwal Bharadhwaj",
+      "Sai Bharath"
+    ],
+    "id": "38256080-b651-471a-ae01-9e1750627499"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Aathreyee Krishna",
+      "R. Srikritii",
+      "Prahalaad Varahaswami"
+    ],
+    "id": "d33e5393-39f3-4070-beee-5d19afc69d02"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "14f5955e-6a98-49b9-b30c-7a58cbb6d6c6"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "VIVEK MOOZHIKULAMRishab Ranganathan",
+      "Akshay Ananthapadmanabhan",
+      "Sowmya Narayanan"
+    ],
+    "id": "9798e5bb-be92-43bc-987d-6ec81c6f3e32"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Kruthi Bhat",
+      "Bombay R. Madhavan",
+      "Sai Giridhar",
+      "S. Sunil Kumar"
+    ],
+    "id": "8e4148cb-3ed1-4c59-8941-5407b0d3f357"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Kavya Kannan"
+    ],
+    "id": "674074e2-7639-40d5-a072-3f93a9ed7220"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Anuratha Swaminathan - SNK Awardee Guru Late Herambanathan"
+    ],
+    "id": "2b9f7cc0-f5c9-437f-87b5-9e312a9d0926"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "17:45",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Aparna Sarma E.G."
+    ],
+    "id": "7ceaf77d-1f80-4e92-a910-8c8853b49fc5"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. NISHKALA RANJEEV & Kum. NIRANTARA RANJEEV Disciples of Dr. Sheela Unnikrishnan"
+    ],
+    "id": "798cda31-329f-43ed-9dba-45d3fa2836b9"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Charulatha Chandrashekar",
+      "Neyveli R Narayanan",
+      "Payyanur Govindaprasad"
+    ],
+    "id": "b40a1dee-1a08-48e5-89d7-3210845e4024"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Sikkil Gurucharan",
+      "VSP Gayatri Sivani",
+      "Trivandrum Balaji",
+      "Shamith Gowda"
+    ],
+    "id": "1ac6f67e-3e56-4596-a45a-887f644026c7"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "LALITHA & NANDHINISridharan Sankaran",
+      "H Sivaramakrishnan"
+    ],
+    "id": "68080e8a-0e5a-4bee-a919-57cc5c8641ac"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Aravind Kalyanapuram",
+      "Shri Vittal Rangan",
+      "Shri N C Bharadwaj",
+      "Shri K V Gopalakrishnan"
+    ],
+    "id": "01b83583-91e4-4fd2-a8b0-de8107432f6f"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Nihaarika D & Ms. Samana R"
+    ],
+    "id": "ddd3b2a7-4c9c-425e-bf33-267549cb725e"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Delhi P. Sundararajan",
+      "H.N Bhaskar",
+      "Sherthalai Ananthakrishnan",
+      "D.V. Venkatasubramaniam"
+    ],
+    "id": "16fb04c9-3d30-41fe-b6ea-a89152c006ff"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Dr Gopukiransadasivan & Dr Ashin Kiran Kalakshetra Presents \" Natyamrutham\""
+    ],
+    "id": "7b581dfa-0bbf-42d1-ae48-605915f749c0"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Sangeetha A"
+    ],
+    "id": "a4a317b5-ae32-47ac-86b8-ec24eca2af26"
+  },
+  {
+    "date": "06-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "GURUGUHO JAYANTHI – A small Journey with Sri Muthuswamy Dikshitar by Students of Guru Vanishree Ravishankar"
+    ],
+    "id": "6a822dae-577c-4405-91c9-06828fe0da1e"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Dr. Sanjay Subramanian - USACS Chinmayi",
+      "Suriya Nambisan",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "bdf7a1b5-09c3-4178-b276-2f2ccaede766"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Udaiyalur Dr K Kalyanaraman Bhagavathar",
+      "Shri Babu rajasekaran"
+    ],
+    "id": "cf37e3fa-1093-4891-8dae-c552c03039ee"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Swathi Srikrishna",
+      "Subhshree Sivaramakrishna",
+      "Madipakkam S. Suresh"
+    ],
+    "id": "eb40350c-cc3e-4164-9a72-60b123daae92"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Unfretted by Vishal Sapuram Chitravina & Sruti Sarathy – Violin",
+      "Akshay Anantapadmanabhan",
+      "Anirudh Athreya"
+    ],
+    "id": "f667354b-6585-4ba7-92e6-29d6cf8a8838"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Pranav Arcot",
+      "R. Naveen",
+      "Abhiram Chilukuri"
+    ],
+    "id": "2cb6f8c2-cd10-4f85-99d1-a1ff1a82882e"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Anirudhh Shankar",
+      "Subhashree Sivaramakrishna",
+      "A.P. Mahizhan"
+    ],
+    "id": "d5ab6f99-ddca-418c-8ae1-97111e79c6f2"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "AADITHYA DEVShyam Raghav",
+      "Anirudh Raj N"
+    ],
+    "id": "1ac42ee1-5b0c-45ce-975c-641778f7490b"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Meenakshi Kannan",
+      "R.S. Srividhya",
+      "Prajwaj Bharadhwaj"
+    ],
+    "id": "cbd34c75-8c61-4cae-8be3-8e5233765cc4"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "727e0e38-f072-4e23-a95c-31e8c951b80e"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "DR SANJAY SUBRAMANIAN – USAY G Srilatha Nikshith",
+      "Puttur Nikshith"
+    ],
+    "id": "bd350e3b-10fe-4346-aa23-e1d8ccaafc5b"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Delhi V. Muthukumar",
+      "Sruti Sarathy, Chennai S. Thyagarajan"
+    ],
+    "id": "845246eb-0580-4836-83b8-c632e455accb"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Joshika M & Ms. Abhinanda A P"
+    ],
+    "id": "26d9926b-29f0-412f-92e6-111ccab44364"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Shruti Umaiyaal - Guru Meenakshi  Chittarajanan"
+    ],
+    "id": "96af0078-0942-4266-aaf6-f859196b6d29"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "17:45",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Syringa S & Ms. Sai Nivedha"
+    ],
+    "id": "526abca4-7996-4936-919b-39e9b2dce594"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Ms. JAYASAKTHI Disciple of Dr. Kaveri Ramesh"
+    ],
+    "id": "3802e721-36cc-49e0-91b1-85272d341ce1"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Vivek Sadasivam",
+      "Dr Hemalatha",
+      "Patri Satish Kumar",
+      "V Anirudh Athreya"
+    ],
+    "id": "c76ca396-589c-422d-b1e9-56b7b3267dd3"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "A.S.Murali",
+      "V.L.Kumar",
+      "Sai Sarangan",
+      "Nerkunam Shankar"
+    ],
+    "id": "b538e31d-b6fb-4667-8b3d-cc73b866bf1d"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "KUNNAKUDI BALAMURALI KRISHNAB U Ganesh Prasad",
+      "B Sivaraman",
+      "N Guruprasad"
+    ],
+    "id": "ad27d276-228d-4b3f-b667-62b8614cfe0e"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Kiranavali & Kum Akshara",
+      "Bombay Shri R Madhavan",
+      "Shri B Ganapathiraman"
+    ],
+    "id": "5c7c3bbf-1624-4982-97fc-42f4ff55dfff"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Aparna Sarma E.G."
+    ],
+    "id": "1454e4b7-7315-4ce6-8a4a-b15a056ea592"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Mahadevan Sankaranarayanan",
+      "H.N. Bhaskar",
+      "R. Sankaranarayanan"
+    ],
+    "id": "6dd3a888-ff0f-48f1-bdf6-5f16b43a4fc9"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Vaishnavi Srinivasan"
+    ],
+    "id": "724e1319-ad83-43eb-8300-a811af1ca0c1"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Dhanyavarshini S"
+    ],
+    "id": "71c13e75-e33a-43fc-a034-5c1362ab7c0a"
+  },
+  {
+    "date": "07-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. SRUTHY THAMPURATTY Disciple of Dr. Padma Subramaniam & Sri. Vaibhav Arekar"
+    ],
+    "id": "d79f5795-7f30-4c90-ab22-66081ff89186"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Skikil Gurucharan",
+      "V Sanjeev",
+      "KV Prasad",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "b204171e-0bca-4a0e-b505-d52b0c46c3e1"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Kum Varsha Bhuvaneshwari",
+      "Shri Jaidev Haridoss",
+      "Topic : Thirugyanasambandar"
+    ],
+    "id": "54c011a9-343a-4a14-a7a5-13ba7eba4027"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Rasika Sivakumar",
+      "Parur M.K. Ananthalakshmi",
+      "Pranav Krishna"
+    ],
+    "id": "959ad168-9429-487d-9196-d5420f7683b7"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Rithuu Rajendran",
+      "V.V. Srinivasa Rao",
+      "Trichur C. Narendran"
+    ],
+    "id": "56ff919b-c6b6-461c-8e1c-701c4be8a235"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Akshaya Hari",
+      "S. Gayathri",
+      "Umesh Gopi"
+    ],
+    "id": "6e9ed7ca-f159-4b75-b656-5e57a75f87f3"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Sci Art, RUs - BVB Margazhi Matram 2025",
+    "artist_names": [
+      "Akshaya Hari and party"
+    ],
+    "id": "efcfe19e-222a-432c-9747-1217d12a6347"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Bharadwaj Subramaniam",
+      "Gyandev Pappu",
+      "Jayendra Kumar"
+    ],
+    "id": "0fd4b046-8857-44e3-a895-c53970fde5e1"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "S KIRTHANAHaritha Narayanan",
+      "Rohith A."
+    ],
+    "id": "df3aee1c-36cf-45e8-bb74-ab9e8ddcfbdf"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "V. Yadushree",
+      "Aparna Thyagarajan",
+      "Sarvajit Krishna"
+    ],
+    "id": "a3b7022f-62a1-48a5-8ba6-293a81f72a0d"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Vishwas Hari",
+      "Sumesh Narayanan",
+      "Sai Subramaniam"
+    ],
+    "id": "c22592cc-3c06-497a-8fb3-119bc4159244"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Priya Balaraman",
+      "Srivatsan Srinivasan"
+    ],
+    "id": "75285b07-c7d2-4634-86b2-dc86fdef91d4"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "V.Mridula/ Vrinda Varma /Saketh Prabha"
+    ],
+    "id": "6f287e5a-fd2f-4116-9ef7-8f985e19a681"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:00",
+    "venue_name": "Sri Thyaga Brahma Gana Sabha (Vani Mahal)",
+    "artist_names": [
+      "Arya Nagarajan",
+      "Sameth Sitaram",
+      "Sanjeev Subramanyam"
+    ],
+    "id": "aebdd81a-519c-4005-8843-7e1641515df7"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:15",
+    "venue_name": "BGS DECEMBER ART FESTIVAL 2025",
+    "artist_names": [
+      "SREERANJANI MUTHUSUBRAMANIANSrinithi Pennathur",
+      "G N Bhawan"
+    ],
+    "id": "e8294782-ba98-4c62-bb20-afe90a82f7f6"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Rohan Musti",
+      "Laasya Vibhave",
+      "Rahul Musti"
+    ],
+    "id": "3673da59-1ff5-4dac-a0fd-9be802920931"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:30",
+    "venue_name": "Arkay Convention Center",
+    "artist_names": [
+      "Vaibhav Ramu",
+      "Rathika Mahesh",
+      "Akshanan  Mayuran"
+    ],
+    "id": "1a4a3ebd-e70c-4c5a-9d9b-a3972b0b6753"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:30",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Maharajapuram S. Ganesh Viswanathan",
+      "Vaibhav Ramani",
+      "D.V.Sivaraman",
+      "Vellattanjoor Sreejith"
+    ],
+    "id": "d64a21a7-f943-4c08-8b0c-577f5ce77fcc"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "13:45",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "SREELATHA VINOD"
+    ],
+    "id": "4a2698af-f995-48e0-a4aa-ff1517cd82f2"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:00",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Pranathi Ganapuram",
+      "Sahana Sreeram",
+      "Ajeet Sridhar"
+    ],
+    "id": "4dddb971-211b-46ef-8630-158f60edc22e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:00",
+    "venue_name": "MAARGA",
+    "artist_names": [
+      "Nandhita Kannan",
+      "Prahlad Saravanapriyan",
+      "Sannath Parameswaran"
+    ],
+    "id": "a02ee75a-0d87-4475-872c-1cb5992956e1"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "c143e280-a745-4b71-8377-b069de4e6efa"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "RAJESWARI SHANKARMelakavery Thiygarajan",
+      "Kumbakonam Ramakrishnan",
+      "Madipakkam Murali"
+    ],
+    "id": "c093e0ae-b74c-4424-a1e3-2e75528e23e0"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Chinmaya Sisters",
+      "M.A. Krishnaswamy",
+      "B. Ganapathyraman",
+      "Mysore Gururaj"
+    ],
+    "id": "7505c3b3-a1a1-4e4b-9b44-690435fe353d"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Shivani Ramesh"
+    ],
+    "id": "84d56184-0e54-4ead-8865-323369f1fda0"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Riha Giri"
+    ],
+    "id": "7b0c14ce-dde1-4385-9b67-9367b4a21a2a"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "17:45",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Akshaya Karthik"
+    ],
+    "id": "411c3ec3-ea66-467a-b10d-b011404b2f02"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Students of KALANRITHYA ARTS ACADEMY Disciples of Smt. Sunitha Prathap"
+    ],
+    "id": "5609e4a3-0b55-412b-803d-74e696043005"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Bhavya Hari",
+      "Bombay R Madhavan",
+      "B Sivaraman",
+      "H Prasanna"
+    ],
+    "id": "a40bc2a6-aed9-41ce-9206-52c85438a011"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Dr Sumithra Vasudev",
+      "M Vijay",
+      "K Arunprakash"
+    ],
+    "id": "5231cac6-a2a0-4336-b612-93f9c4d92ecc"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "KALYANAPURAM ARAVINDR Rahul",
+      "N C Bharadwaj",
+      "S Krishna"
+    ],
+    "id": "996dafaf-be47-40c5-85cb-4110c137ddf6"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Vanitha Suresh",
+      "Shri Sanjay Suresh",
+      "Shri S V Ramani",
+      "Shri Sunil Kumar"
+    ],
+    "id": "9b6026ab-9f34-498d-b5b4-e2d4d132b0d3"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. V Aishwarya"
+    ],
+    "id": "6dd00344-5bff-4070-8ea9-762f6fcf0c79"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "A.S. Murali",
+      "M R Gopinath",
+      "A.S. Ranganthan",
+      "A.S. Krishnan"
+    ],
+    "id": "ac79e084-0588-4265-b6e3-59279ce46b90"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Pravarthika Balaji -Udikshana Sangeethe Vidyalaya - Guru Maalini Balaji"
+    ],
+    "id": "2fd34d9c-223d-43bc-a305-578742bcb0a1"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Chandana vangala & Ms. Sahana Maitreyi V)"
+    ],
+    "id": "bd740280-ab6d-4a98-b8c2-5c0217312446"
+  },
+  {
+    "date": "08-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "ANBE JEEVATHARAM by Students of Lakshana Academy of Fine Disciples of Dr. Radhika Vairavan"
+    ],
+    "id": "1045cb51-22da-473b-b55e-3c151ee4a597"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Revathi Subramanian",
+      "R Satish Kumar",
+      "Burra Sriram",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "03fc66fc-49d4-4c60-9daf-313a96cd6804"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Kum Varsha Bhuvaneshwari",
+      "Shri Jaidev Haridoss",
+      "Topic: Sundarar"
+    ],
+    "id": "3b72a116-a308-4e39-b2a7-7b5ebcc3e247"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "N.S. Kamakshi",
+      "Madan Mohan",
+      "Kishore Ramesh",
+      "Nerkunam Dr. S. Sankar"
+    ],
+    "id": "188c9a28-a369-4093-acee-7e833fe46094"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Shenkottai Harihara Subramanian Bhagavathar"
+    ],
+    "id": "460fd661-d77a-4f4e-aa91-735136cfb3b3"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Palghat Sisters",
+      "S. Vydyanathan",
+      "Aravind Srikanth"
+    ],
+    "id": "3c2ce134-4dd5-4855-9ff1-842461d93520"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Nikhil Shankar",
+      "Bargava Vignesh",
+      "M.L. Vadiraj"
+    ],
+    "id": "e62736c5-726a-49f1-9697-f55428dd0c1c"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "PAVITHRA PARTHASARATHYShyam Raghav",
+      "Tirucherai Koushik"
+    ],
+    "id": "6f4e6322-651d-49dd-9df8-3425042cf7d6"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sri Sri Sisters",
+      "Shraddha Ravindran",
+      "Pranav Krishnan"
+    ],
+    "id": "07e6d9c0-2f79-4774-ad96-a48522e04d97"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "S Adityanarayanan",
+      "Kamalakiran Vinjamuri",
+      "Praveen Sparsh",
+      "S Sunil Kumar"
+    ],
+    "id": "285136dd-5663-4807-81ce-ba583e67cf99"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Sankrith Ramani",
+      "Smt Srinidhi Pennathur",
+      "Shri Ashwath Karunakarom"
+    ],
+    "id": "356d7b63-2e36-4b21-a438-9823e2371bf4"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "BHARADWAJ SUBRAMANIANParoor Ananthalakshmi",
+      "R Akshay Ram"
+    ],
+    "id": "a3b5db99-25a4-4a10-a0b2-d283f6e84580"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "“Pravaham” Janani Hamsini",
+      "Rangappriya Sankaranarayanan",
+      "Aswini Srinivasan",
+      "Pravaham"
+    ],
+    "id": "a7f28763-c7bf-42a4-94fb-995f465cafb6"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Aparna Balaji"
+    ],
+    "id": "7a605a03-d9da-4c60-ac2f-85777ab77414"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Tulsi S . Lila Arts Centre Student Of  Anu Bhaskararaman"
+    ],
+    "id": "f7486e15-6522-492f-a949-7fccb089ec0d"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "17:45",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Kaushika"
+    ],
+    "id": "bc3908f5-0f70-45bd-a7bc-9b317971f272"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. SANKAVI PUHAZHENDI & Kum. SURABI PUHAZHENDI Disciples of Smt. Krishnakumari Narendran"
+    ],
+    "id": "6dc4d89b-a6e9-40bd-98fc-4ee63aa8e1b5"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Vasudha Ravi",
+      "Bombay R Madhavan",
+      "Neyveli Skandasubramaniam",
+      "Nerkunam Shankar"
+    ],
+    "id": "071ccbc5-4158-4189-9a2b-5d186d0fa45b"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "‘Bhava Raga Tala Modini - a tribute to the musical genius of Sri Muthuswami Dikshitar’ by R. K. Shriramkumar Assisted by Amritha Murali and Bharathi Ramasubban",
+      "Madan Mohan",
+      "S. Kavichelvan"
+    ],
+    "id": "964874c4-7fa8-4e49-afc9-4de05a40ae93"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "CARNATICA BROTHERS – K.N. Shashikiran & P. Ganesh",
+      "VVS Murari",
+      "Thiruvarur Vaidyanathan",
+      "Akshnan Mayuran"
+    ],
+    "id": "61bfe3f4-27c1-4a06-86bd-c9e228bd3891"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Sandeep Narayan",
+      "Shri L Ramakrishnan",
+      "Sangita Kalanidhi",
+      "Sangita Vachaspathi                                       Thiruvaarur Shri Bakthavathsalam",
+      "Shri Chandrasekhara Sharma"
+    ],
+    "id": "9f716ed7-cb07-4fec-9198-948d3e87da97"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. V J Karunya"
+    ],
+    "id": "1481828f-6a53-47c8-be82-f08ea3714548"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "J.B. Keerthana",
+      "R. Raghul",
+      "Kishore Ramesh",
+      "Madipakkam Murali"
+    ],
+    "id": "db3fef4d-61a9-43a3-a43c-5d3f722d482a"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Nda Presents Madurai R Muralidharan' S  \" Vayu Puthra\""
+    ],
+    "id": "c103ce61-74ca-4d3f-981d-2dba72cd6ac2"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Thanmathi R",
+      "Sriharshitha S & Shiv Rishitha S)"
+    ],
+    "id": "1f629e6f-d2c4-45d1-91bd-f71d1df72e6f"
+  },
+  {
+    "date": "09-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. MALAVIKA THIAGARAJAN & Kum. SHIVANI SENTHILKUMAR Disciples of Smt. Meenakshi Chitharanjan ------------------------------------------------------------------------------------------------------------"
+    ],
+    "id": "5428edc3-0994-4f41-829e-5cded7636bb4"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Gayathri Venkataraghavan",
+      "Mysore V Srikanth",
+      "N Manoj Siva",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "549ec96e-5117-4d32-9080-ce77d4b3d47b"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Kum Varsha Bhuvaneshwari",
+      "Shri Jaidev Haridoss",
+      "Topic: Thirunavukarasar"
+    ],
+    "id": "7fda00a1-2556-443b-9bbe-ac5d4c277ed3"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Srividya Vasudevan",
+      "Shraddha Ravindran",
+      "S. Raghuram"
+    ],
+    "id": "60bc34ca-4c6b-4099-b822-fb7b4aeb6f44"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "09:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "LAVANYA KARTHIKEYANBhargavi",
+      "Akshyan Mayuran"
+    ],
+    "id": "44cb0acd-a15a-49c7-802b-d9dfce269ae1"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Youtube Fame H.Sooryanarayanan & Party"
+    ],
+    "id": "add8a2ea-5930-471a-b88d-fbba8692547f"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Kumbhakonam Shankararaman",
+      "M.R. Gopinath",
+      "B. Sivaraman",
+      "N. Guru Prasad"
+    ],
+    "id": "bf5acd41-1dc9-450d-a470-eb536a5746fa"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "10:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "PRIYA KRISHNAMURTHY“Nadapallava” Bhargav Vignesh",
+      "Ajeet Sridhar"
+    ],
+    "id": "7d7ec2ca-70a7-4737-ab19-632c272e2df0"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "12:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "HARISH VENKATARMANVenkatasundaram",
+      "Chidatma Datta Chaganti"
+    ],
+    "id": "f3029947-4d6c-46d0-ae5c-0f9702fb9b1a"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "V.S. Abhirami",
+      "Sumedha Mahesh",
+      "S. Anirudh"
+    ],
+    "id": "b4f26263-a9f0-420d-9891-8544f264f32d"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Vatsallya Thulasidaran Radhe Krishna \" Keerthaneeya Sadha Harih \""
+    ],
+    "id": "7c5285af-2b00-49f5-995a-8ca8633e6331"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Hamsini Vydeeswaran",
+      "Shreeya Ananth",
+      "Ajeet Sridhar"
+    ],
+    "id": "53be97f9-aee8-424d-be0f-4ea37cb676cc"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "MATHANGI KAILASANATHSreelakshmi Bhat",
+      "Puttur Nikshit"
+    ],
+    "id": "49595962-023d-4289-a9a7-49cf71584790"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Iyer Sisters",
+      "Sriramya Mantha",
+      "Ajeet Sridhar"
+    ],
+    "id": "85998c6b-403b-4e86-a6cd-9a19f9713d55"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Jayakrishnan Unni",
+      "Gayatri Shivani",
+      "Akshay Ram",
+      "K V Gopalakrishnan"
+    ],
+    "id": "4466ab14-1156-43c5-ab15-bd97e162f61f"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Kum Mridula Venkatachalam",
+      "Shri Sudarshan",
+      "Shri Mukunda sai"
+    ],
+    "id": "9ca12cb8-b5d7-476d-8588-2fe9b134b4c1"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Dr. VINAYADHANASEKAR Disciple of Smt. Malathy Thothadri"
+    ],
+    "id": "8a755b0f-22d5-4fd0-8491-3ac8041dc0be"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "VEENA VENKATARAMANIHariharan Sundarraman",
+      "S.Sunil Kumar"
+    ],
+    "id": "8090fa14-9bee-4a70-9cf6-e1283759f4c7"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sai Vignesh",
+      "Thirucherai Karthik",
+      "Sunaada Krishna"
+    ],
+    "id": "950e289e-538e-49e0-bb50-7fba9da62048"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Mahathi Kannan"
+    ],
+    "id": "edc0285c-5b73-45c3-b8ef-cba399c4a8ae"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. R.P. SRINIDHI Disciple of Smt. Archana Mahesh"
+    ],
+    "id": "5efffb13-ef6b-4393-9138-7b43c2c92c7d"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Brinda Manickavasakan",
+      "R K Shriramkumar",
+      "K Arun Prakash",
+      "Udupi Srikant"
+    ],
+    "id": "c041d961-945d-45ea-8ec4-873dd664a738"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SIKKIL GURUCHARANSruti Sarathy",
+      "Ajai Gopi",
+      "Sai Subrammanian"
+    ],
+    "id": "40759800-1f31-4396-b09b-4760cccf912e"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Ranjani & Smt Gayatri",
+      "Shri Vittal Rangan",
+      "Shri Manoj Siva",
+      "Shri Chandrasekhara Sharma"
+    ],
+    "id": "09c55dfc-90e6-43e6-b666-9e810ef12bc4"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "T.N.S. Krishna",
+      "B.U. Ganesh Prasad",
+      "B. Sivaraman",
+      "K.V. Gopalakrishnan"
+    ],
+    "id": "724495be-2444-40ca-bbd0-f6007ab49249"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Hari Chethana \"Bhakthi Nritya Tarang\""
+    ],
+    "id": "ac868f13-9e4b-4490-acec-7450e066e025"
+  },
+  {
+    "date": "10-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. K. ANUSKHA Disciple of Smt. Srimathi Venkat"
+    ],
+    "id": "9d3a1b44-3e1d-43c2-95e1-b6f14e725b61"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Nagai Muralidharan",
+      "Nagai Muralidharan",
+      "Mannargudi Easwaran; Tiruvarur Vaidyanathan",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "d21ddb29-482e-4097-a5de-9307d499d529"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "SASTRA TEAM"
+    ],
+    "id": "4e53fe79-e03e-4139-8f29-6d001a23e08b"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "08:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Dwaraka Colony Bhajan Mandali"
+    ],
+    "id": "fdf5a649-a127-4a48-a717-b0d512db74cc"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "09:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Samanvitha Sasidharan",
+      "Sreelakshmi Bhat",
+      "Ajeet Sridhar"
+    ],
+    "id": "4d9a8ec9-7594-4ddb-a961-dadd31259d0a"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "09:15",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "Tevaram Innisai – Smt. Kamali Kumar",
+      "Sreelakshmi Venkataramani",
+      "Madurai K Karthik"
+    ],
+    "id": "e43b02aa-53f9-41a6-ad9e-ce54b2db9eb3"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Viprahar Group Presents Spoorthi Rao & Vishwas Hari",
+      "S. Hariharan",
+      "Srinivas",
+      "Sarvesh Karthick"
+    ],
+    "id": "7239c1f9-6666-4dcf-9919-48cb67b48d32"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "B.U.Ganesh Prasad",
+      "Sruti Sarathy",
+      "B. Sivaraman",
+      "S. Sunil Kumar"
+    ],
+    "id": "cd1626d7-6808-4f78-8a21-aafcd7b17849"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "11:00",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "THIYAGARAJA PANCHARATNAM KRITIS - Students of Revathy Santanakrishnan TKG Gurukulam",
+      "Velachery"
+    ],
+    "id": "9e1bc99d-4146-4528-9d1e-108edba4e10f"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "12:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Lavanya V.L. Sudarshan",
+      "Bargava Vignesh",
+      "Akshanan Mayuran"
+    ],
+    "id": "97cd7996-6027-4d1b-b358-032b451343cf"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Jayashree Vaidyanathan",
+      "Pakala Giridhar",
+      "M.S Venkatasubramanian",
+      "S. Venkatraman"
+    ],
+    "id": "6c85f22f-0364-4202-8e38-26e72faa7eec"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Srijith Poosarla",
+      "Sreeya Ananth",
+      "Aravind Srikanth"
+    ],
+    "id": "b484eba3-b43a-4d38-b8a7-c3ace2a37f69"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "COTAH SISTERS - PURVA DHANASREE & PAAVANIM Shrikanth",
+      "Adarsh Devarajan",
+      "Harikishore"
+    ],
+    "id": "bc3bf033-73ee-4b6f-9432-ad87ee140e9d"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "15:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Arya Nagarajan",
+      "Prithvi Bhaskar",
+      "Karun Salvady"
+    ],
+    "id": "1fd64f6d-b1fb-4434-b29c-0e6e01535574"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Spoorthi Rao",
+      "H N Bhaskar",
+      "Shree Sundar Kumar",
+      "S Krishna"
+    ],
+    "id": "5a4a5cb0-84d7-483a-b6f4-b2b53fa7cc84"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Palghat Sisters Kum S Sowmya & Kum S Swetha",
+      "Shri Bhargav Vignesh",
+      "Shri Kaushik Sridhar"
+    ],
+    "id": "0fb6cd80-c374-4714-9155-eccfb4f6d3b0"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. K. SRAVISHTA Disciple of Dr. Sujatha Mohan"
+    ],
+    "id": "a8b7f527-f6e2-4d65-9fde-5c9d68d7e81b"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SHRUTHI SHANKAR KUMARMadan Mohan",
+      "R Akshay Ram",
+      "Harihara Subramanaian"
+    ],
+    "id": "28a37d80-d541-4644-805c-1fc573c465c9"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "17:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Abilash Giri Prasad",
+      "Kamalakiran Vinjamuri",
+      "Sherthalai R. Ananthakrishnan",
+      "Trichy Dr. K. Murali"
+    ],
+    "id": "90c67061-6347-4e8d-87b2-500f632f8bea"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "G Mime Studios Presents Maa \" Mother Above All\"- Mime Gopi"
+    ],
+    "id": "c3676930-d308-4d37-a33f-50cccf414210"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Students of Dr. SREELATHA VINOD Antara Centre for Performing Arts"
+    ],
+    "id": "f962f743-f52b-4f51-9d63-e48da054ce9e"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "18:15",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "Savita Sreeram",
+      "Vishwas Hari - Mandolin",
+      "M S Venkatasubramanian",
+      "Gopalakrishnan - Harmonium"
+    ],
+    "id": "6d7c1586-52b9-416b-92dd-42668f0bf0b8"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SANDEEP NARAYANB Vittal Rangan",
+      "Thanjavur Murugaboopathi",
+      "Sunil Kumar"
+    ],
+    "id": "ddc329b3-80d2-4aa2-a850-2b6968e78980"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Smt Sivasri Skandaprasad",
+      "Shri Chandrasekar",
+      "Shri Jaidev Haridoss",
+      "Shri Shankaranarayanan"
+    ],
+    "id": "955ddc28-1749-4736-97e1-9d3062f4381e"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "19:00",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Vittal Ramamurthy and Srihari Vittal",
+      "Srimushnam V. Raja Rao",
+      "S.V. Ramani"
+    ],
+    "id": "46384758-ca9f-40c9-8b74-5be60bfb477f"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "UAA Presents Ygeem & Y G Madhuvanthi In \" Lights On  \""
+    ],
+    "id": "8b36bf9d-5553-4524-b183-b8b1d6ac8d18"
+  },
+  {
+    "date": "11-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Students of Sree Gurukripa Natya Kala Mandir Disciple of Dr. Lakshmi Jayapriya"
+    ],
+    "id": "fad381be-adc3-4e0c-95e3-de7601758588"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Palghat Ramprasad",
+      "Tirucherai Karthik",
+      "Vijay Natesan",
+      "Sunil Kumar",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "c165d333-1797-413f-8fad-bb78dad69f01"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Isaiperoli Dr R Ganesh"
+    ],
+    "id": "d044ce2f-65df-4622-964a-35821efff8b7"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "SANJANA KRISHNANNiveditha Doraiswamy",
+      "Karthik Sankaran"
+    ],
+    "id": "c45715a8-6683-4c66-847e-375e54dc9b99"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "f62739fe-4626-4906-8ac2-3780059d1938"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "JAYASHREE VAIDHYANATHANMukunthan Samraj",
+      "Thillai R. Surya Narayanan",
+      "K. Ranganathan"
+    ],
+    "id": "bba3a11d-6031-48d1-b70f-70d81a5c66ba"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "CHARULATHA CHANDRASEKARA ROHITHSUMANTH KARANTH"
+    ],
+    "id": "f877ef8b-d824-47c4-a621-70179839d605"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Grand Veena concert by Dr.S.Nithyasree/Sathya Ramesh/H.Sivaramakrishnan"
+    ],
+    "id": "a03bac15-48bb-4874-ab01-b32ad8fa2c82"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:00",
+    "venue_name": "Ragamalika TV & GCMA with Aradhan Mini Hall",
+    "artist_names": [
+      "Samarth Anantuni",
+      "Srihari",
+      "Ram Siva"
+    ],
+    "id": "1733a227-39d1-419f-bd8e-a7b7a1a62c22"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:00",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Heramb & Hemanth",
+      "Sanjay Suresh",
+      "Puttur Nikshith",
+      "Sriram Natrajan"
+    ],
+    "id": "b6bd307c-8a96-45b7-8d29-6219e197e524"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:15",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Sanika Pande",
+      "V.S.K. Raghava",
+      "Siddhart S. Ragavan"
+    ],
+    "id": "a40def38-ccd0-4124-bc16-2a5eb543d054"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:15",
+    "venue_name": "Sri Thyaga Brahma Gana Sabha (Vani Mahal)",
+    "artist_names": [
+      "Padmashree Srinivasan",
+      "Jeysri Balaji",
+      "Aduthurai Guruprasad",
+      "Samyuktha Sreeram"
+    ],
+    "id": "0f733d0b-9142-4742-b461-8606fba119f2"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Duet Presentation By Anushiya Hariharan & Moumita Shanmugasundaram - Disciple Of Thiruveezhimizhalai Dr Kanaka Krishna Prashanth"
+    ],
+    "id": "1c23ba96-8cb6-4916-a1a0-c8666626f8dd"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. CHANDANA VANGALA Disciple of Smt. Mangala Karthikeyan"
+    ],
+    "id": "87594d65-352e-41ae-a26e-c62a74544271"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "18:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "“Nada Vallabha” GAYATRI VENKATARAGAVANL Ramakrishnan",
+      "N C Bharadwaj",
+      "Sunil Kumar"
+    ],
+    "id": "0d47aca9-639e-4d69-b5de-6577e5fe973b"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri Ramnath Bhagavath",
+      "Smt Srinidhi Pennathur",
+      "Shri Sarvesh Karthick"
+    ],
+    "id": "23ac9495-6709-4a7e-9938-360f6d5fe6a5"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Srikala Bharath & Thejas Present Uthama Deivangal On Santhoshi Ma",
+      "Shirdi Baba And Swami Ayyappan"
+    ],
+    "id": "c89635ff-6f55-4900-abd9-89ea4aeb33ec"
+  },
+  {
+    "date": "12-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Students of SHREE KAVITHALAYA Disciple of Smt. Kavitha Charles"
+    ],
+    "id": "558261dc-dba9-4b35-9d82-6cd353758fc5"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Nagamani & UP Raju",
+      "Madipakkam Suresh",
+      "N Rajaraman",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "be3c4aad-8ffa-4b04-a482-fc1fef583c50"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Isaiperoli Dr R Ganesh"
+    ],
+    "id": "3946ab9f-c463-4cfc-8ca9-7c33031d442d"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "25fa35fd-85a8-45f3-ba5f-07c12fedab24"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam Kum. TEJASWINI SRIDHAR Disciple of Smt. Janaki Ganesh"
+    ],
+    "id": "0f99a2a7-832c-4c31-bb04-84dfee6d64f5"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "M.Oviya - Bharatham School Of Fine Arts",
+      "Guru : Dr Himaja Atulkumar"
+    ],
+    "id": "a51b2a43-0c92-4f67-996d-ce9cd9872af2"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. NIVEDHA HARISH Disciple of Smt. Roja Kannan"
+    ],
+    "id": "4fbcbdf7-04c3-404e-b214-e9846cc2413d"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Shri V G Vigneshwar & Team",
+      "Shri Thirucherai Karthik",
+      "Shri V G Visswesh",
+      "Shri Martin",
+      "Shri Barath"
+    ],
+    "id": "af3fe8df-d243-423b-b7bb-9f8997a9ffc1"
+  },
+  {
+    "date": "13-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Maanasa S - Guru Smt. Jayanthi Subramaniam"
+    ],
+    "id": "89c6c244-14fa-4da7-832e-8feaa2fe2147"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "06:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Rajesh Vaidhya &U Rajesh and team",
+      "EKAANTHA SANGEETHA SEVA SERIES | Near RR Sabha"
+    ],
+    "id": "d66a4544-9e65-4182-9adf-0b5198245c49"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "07:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Erode Mathu Soodhanan Sridhar Bhagavathar"
+    ],
+    "id": "099f1f94-664f-4cfc-a5d8-2499cc190547"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "Students of Smt. T M SRIDEVITvarita Silambam"
+    ],
+    "id": "2672ba69-547b-47fe-b167-6f62cddcdb8b"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "0fe8f4af-d2e7-4dc4-8a00-eda9c6fe7a4f"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. SARANYA KRISHNAN Disciple of Smt. Mrinalini Thiyagarajan"
+    ],
+    "id": "cdc95983-01bf-4f16-8989-16fe7b798680"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "Students of LATHA ARAVINDANPREMALAYA NATYA NIKETAN"
+    ],
+    "id": "996e00c9-76b1-4865-892f-06f15a83bf32"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Varsha J",
+      "Disciple Of Smt.M. Lakshmi Priya Raja",
+      "Artistic Director Of Maathrika"
+    ],
+    "id": "fa29d7ad-9b13-48ec-8467-b682ce4b504d"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. PRAVARTHIKA BALAJI Disciple of Smt. Maalini Balaji"
+    ],
+    "id": "5fd6ba00-9172-4a54-b323-95c524e7caeb"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "18:30",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "Chitravina N Ravikiran & Dr Sudha Seshayyan"
+    ],
+    "id": "39582661-b6bb-4462-b78f-4c8cc2463ffa"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "SNEHA MAHESH",
+      "Dis. of Smt PRIYA MURLE"
+    ],
+    "id": "74efb3f5-4deb-4045-bd5c-9e43e0477928"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Meenakshi Thirukalyanam Disciples Of Kalaimamani Smt. Padmalaksshme  Suresh"
+    ],
+    "id": "df70a503-89b5-473e-9f76-cc0339f442da"
+  },
+  {
+    "date": "14-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "ANDAL THIRUKALYANAM - A Thematic Presentation Choreography Dr. Smt. Kanchana Janardhanan"
+    ],
+    "id": "e5f793c0-ccad-4936-ba7a-5317467aa585"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "HARSHINI. R",
+      "Dis of Smt H N NANDHINI SURESHSri Sai Nrithyalaya"
+    ],
+    "id": "2c7be9a9-e26d-4430-a72a-4ccd0274ca7a"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. SAHANA BHARADWAJ Disciple of Smt. Jayanthi Subramaniam"
+    ],
+    "id": "d0a48b6b-5ce2-4bd0-83aa-c7c468d74e5d"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "JAIWANTHI RAJAN",
+      "Dis. of Smt LATHA ARAVINDANPREMALAYA NATYA NIKETAN"
+    ],
+    "id": "88209746-2bed-47a5-9c1d-07c1e9b9f9fa"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Tejasshri Vivek"
+    ],
+    "id": "b5ab8842-ea44-4aaf-a349-6b4575ecec02"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by AMRUTHA BHARATH Disciple Smt. Sreedevi Priya Sriram"
+    ],
+    "id": "82b26f89-b49f-4e5c-8da1-6344f07fe119"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "\"VENKATAKAVIYUM VENUGANANUM\" Dance Drama",
+      "Students of Smt.H N NANDHINI SURESHSri Sai Nrithyalaya"
+    ],
+    "id": "f17d9b03-ca20-4a41-8b94-2fb5d3d0ab00"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Meenakshi Chittaranjan"
+    ],
+    "id": "65d595cb-9de6-494d-a06c-c7aad1ebb14c"
+  },
+  {
+    "date": "15-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "SIVA NAVA BHAKTHI Dance Drama - Concept & Screenplay Smt. Shobha Korambil Lyrics by Dr. S. Raghuram Choreography by \\ Dr. SHEELA UNNIKRISHNAN performed by Dancers of Sri Devi Nrithyalaya"
+    ],
+    "id": "348c752a-7dbc-46bc-a57f-be1e3d1220e7"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "SRIANANTHAA KAMALI. S",
+      "Dis. of Smt. PRIYA MURLE"
+    ],
+    "id": "e6165386-fcd7-42fe-b051-01bb3887713b"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "16:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Kum. BARGAVI KANNAN Disciple of Smt. Lalitha Ganapathy"
+    ],
+    "id": "bfa49b34-abae-480b-8f89-b44e79a6240a"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "STUDENTS OF KALA UTSAVA",
+      "Smt. ARCHANA CHANDRASEKARAN"
+    ],
+    "id": "d061beac-7b95-4e8a-8225-1953a3717fd8"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "S.Mahanyashree",
+      "Saketh Pantula",
+      "Siva Devanathan"
+    ],
+    "id": "955272f7-5ee6-4f07-aed8-8af1c2acb742"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "17:45",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "Bharathanatyam by Sri. M. SUMODH Disciple of Dr. S. Divyasena"
+    ],
+    "id": "1688fc9b-3a02-4e8c-8280-be63fb0c1934"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "\"BALA GANESHA\" -Dance Drama",
+      "Students of Smt. LATHA ARAVINDANPREMALAYA NATYA NIKETAN"
+    ],
+    "id": "6ab9f370-0e84-4420-a7b9-43261147d397"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Yuva Kala Vaibhavam By Yuva Kala Bharathi Awardees 2024 - Aparajitha",
+      "Ramya Venkataraman",
+      "Sahana Selvaganesh",
+      "Shivani Krishnamoorthy"
+    ],
+    "id": "28c397ca-662d-4f57-8220-1d8cc37c6170"
+  },
+  {
+    "date": "16-Jan-2026",
+    "time": "19:15",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "THAMIZHUKKUM ARAM ENDRU PEYAR A Dance through timeless values by Smt. VAIDEHI HARISH and Disciples"
+    ],
+    "id": "634f44eb-88cb-4c18-b673-7395d4220a61"
+  },
+  {
+    "date": "17-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "SHRINIDHI B LALGUDI",
+      "Dis. of Smt. Sharadha Sethuraman",
+      "BARATHA NRTYA SALA"
+    ],
+    "id": "e24e8cad-f8c0-4dad-8648-18b0d81e3cff"
+  },
+  {
+    "date": "17-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "ANANYA BHARATH",
+      "Dis. of Smt. MANASVINI K R AND SMT REVATHI RAMACHANDRANKALA SADHANALAYA"
+    ],
+    "id": "68f34324-36a7-4466-bf90-ed6e004eeed0"
+  },
+  {
+    "date": "17-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "V S Akhilandeswari & V Amirthalakshmi"
+    ],
+    "id": "b3cef3f9-ab1b-4e73-b54f-5aa269ba0729"
+  },
+  {
+    "date": "17-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "\"SUDHA DHAARA\" Smt. PRIYA MURLE AND STUDENTSShri. Silamban Academy of Fine Arts"
+    ],
+    "id": "fc105e2f-e0b8-49f2-9f69-966638ba45ce"
+  },
+  {
+    "date": "17-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Akshaya Narayanan Student Of Smt Gayathri Chandrashekar"
+    ],
+    "id": "54684eb8-cebd-4a06-86ed-a3ba348d080c"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "10:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Vaishnavi Ramadas",
+      "C.S. Chinmayee",
+      "Nochur Nagraj"
+    ],
+    "id": "e4133290-2597-4b84-8a10-4407a12c1037"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "14:00",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Cotah Sisters",
+      "Sameth Sriram",
+      "Kavichelvan"
+    ],
+    "id": "01725682-a3f1-4d19-8615-e079dc73748e"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "ADITHIREE SURESH Dis. of Smt. VAIJAYANTHI ALWAN",
+      "Artistic Director",
+      "Athma Academy"
+    ],
+    "id": "7dd070f7-2cd9-4c1d-a250-996709010b8a"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "\"SANGAMA TRAYAM\" Thematic presentation",
+      "Smt. APARNA KRISHNAMURTHY",
+      "DR NIRUPA VENUGOPALAN",
+      "Smt. AISHWARYA SABARISH Dis.of DR LAKSHMI RAMASWAMYSRI MUDHRAALAYA"
+    ],
+    "id": "0a067c87-ba20-4491-8d70-7759521f34d0"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "17:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Vidhyalakshmi"
+    ],
+    "id": "5a505734-f955-4028-b689-92aa591cd33b"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "\"SHANMATHA STHAPAKA SANKARA SANKARA\" Thiruveezhimizhalai Dr. Kanaka Krishna Prashanth and Disciples"
+    ],
+    "id": "4c66255d-d209-4c58-aa60-80e1d7b92932"
+  },
+  {
+    "date": "18-Jan-2026",
+    "time": "19:15",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Vinisha Kathiravan Guru: Urmila Sathyanarayana"
+    ],
+    "id": "65d51129-daef-4ef1-8e8a-73a2c6463885"
+  },
+  {
+    "date": "24-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "Students of Smt SUNITTA MENGHANAANI SHANTHIKALA NIKKETAN"
+    ],
+    "id": "7bf58ad6-7e21-41b6-8bf5-adb9ddadf047"
+  },
+  {
+    "date": "24-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "DHANASHREE MANICKVAACHAGAM",
+      "Dis. of Smt. SREKALA BHARAT"
+    ],
+    "id": "beee8bb3-78c2-449f-9e18-10e6485a5cc2"
+  },
+  {
+    "date": "24-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "\"DEVA MADHARGAL ON CELESTIAL NYMPHS RAMBA MENAKA & OORVASI",
+      "Students of Smt. SREKALA BHARAT & TEJAS"
+    ],
+    "id": "a841970f-792e-4fac-9660-ebcb18af7c32"
+  },
+  {
+    "date": "25-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "BHAVANA. B Dis. of DR RADHIKA VAIRAVELAVAN"
+    ],
+    "id": "3773414d-16c4-4812-ad5c-850ff8686517"
+  },
+  {
+    "date": "25-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "STUDENTS OF KUMUDAA SRINIVASARAGHAVAN"
+    ],
+    "id": "c8c49f8f-1cac-469c-bd87-e069beaca56f"
+  },
+  {
+    "date": "25-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "LASYA BHARATHAM Students of Smt.MAYA VINAYANTriveni Academy of Natya"
+    ],
+    "id": "7ea95110-d937-45dc-bdca-b61193a6b1cf"
+  },
+  {
+    "date": "26-Jan-2026",
+    "time": "16:00",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "B S MISHALI",
+      "Dis. of Smt. B SRIMATHI VENKATFounder and Artistic Director",
+      "Sri Nrithyalaya Academy of Fine Arts"
+    ],
+    "id": "93c49663-d02d-42fb-9638-a4a055c35761"
+  },
+  {
+    "date": "26-Jan-2026",
+    "time": "17:20",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "GROUP PRESENTATION By Disciples of DR.PADMA",
+      "Artistic Director of Jaya Sathvika Natyalaya"
+    ],
+    "id": "1fa2ffb9-564f-471d-9ccf-7ea6089199ad"
+  },
+  {
+    "date": "26-Jan-2026",
+    "time": "18:45",
+    "venue_name": "Nada Sudha Dance Festival",
+    "artist_names": [
+      "SOWMYA SREENIVASAN &AMRITHASHRI BALAJI",
+      "Dis. of Smt. SHALY VIJAYAN"
+    ],
+    "id": "d05ec25c-b409-4a82-b089-70474ee06890"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:30",
+    "venue_name": "BGS DECEMBER ART FESTIVAL 2025",
+    "artist_names": [
+      "SHARADUL KRISHNATHANVishvesh Upoor",
+      "Aashrith Aravind"
+    ],
+    "id": "fe44e526-b325-4eab-892d-d70431a24651"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:30",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "R L Arjun Srinivas",
+      "Mangalam Ramakrishnan",
+      "E. Devanathan"
+    ],
+    "id": "ea5fae64-9b2d-4560-b621-e8770fe57507"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "14:45",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "ATHREYA KRISHNAShreelakshmi Bhat",
+      "Nandan Khashyap"
+    ],
+    "id": "65b8a785-8187-41ea-ba28-9bf3c5ecd4cd"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "15:00",
+    "venue_name": "Arkay Convention Center",
+    "artist_names": [
+      "Hiranmayee Srinidhi",
+      "G Badrinath",
+      "Srikar Chittari"
+    ],
+    "id": "0f1cf302-9925-4fbd-ab2a-7d5504dc2804"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "15:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Anjana Anil/ Madhav Krishnan/Sanjay Subramaniam"
+    ],
+    "id": "b2616899-f662-4f0b-a201-c21540c880d8"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "15:05",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "ANANYA ANAND"
+    ],
+    "id": "02d6cd4f-aa8f-46d7-8946-082a7b5a610e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "15:30",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Pranav Kikkeri",
+      "Gayathri Vibhavari",
+      "Srihari Raman"
+    ],
+    "id": "fb28569c-6f66-492d-a1ad-8d017a3ae03d"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "15:30",
+    "venue_name": "MAARGA",
+    "artist_names": [
+      "RP Shravan",
+      "Haritha Narayanan",
+      "Nochur Nagaraj"
+    ],
+    "id": "d708a4be-b624-4045-b6c6-42e65bfc5423"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "15:30",
+    "venue_name": "Ragamalika TV & GCMA with Aradhan Mini Hall",
+    "artist_names": [
+      "Musical Imprints - Sabha to UN to Reel culture - Vid.Sudha Ragunathan & Singer  V.Abby Curated by Vid.K.N.Shashikiran"
+    ],
+    "id": "62014800-108d-4f8b-96ac-432a6089a93a"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "BGS DECEMBER ART FESTIVAL 2025",
+    "artist_names": [
+      "VINAYA KARTHIK RAJAN & VIDYA KALYANARAMANKarikal Venkatasubramanian",
+      "Sevesh Karthik",
+      "Bhooloke Vaikuntam thematic presentation Insights shared by Sri Muthusundanan Kalaiselvan"
+    ],
+    "id": "b401345e-869f-4912-8b41-0b9815bde305"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "CHARSUR ARTS FOUNDATION",
+    "artist_names": [
+      "R K Shriramkumar; Vocal Support: Amritha Murali",
+      "Aditi Krishnaprakash",
+      "K Arun Prakash",
+      "RAMANUBHAVA"
+    ],
+    "id": "c1b1c0ae-93a1-45ee-aa15-cb70092eee6b"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Krishna Gana Sabha - 69th Margazhi Mela 2025 & 43rd Natya Kala Conference",
+    "artist_names": [
+      "VIOLIN-FLUTE-VEENA-MRUDANGAM QUARTET CONCERT - VIOLIN-FLUTE-VEENA-MRUDANGAM QUARTET CONCERTCHARUMATHI RAGHURAMANJ.B.SRUTHI SAGARRAMANA BALACHANDRANANANTHA R KRISHNAN"
+    ],
+    "id": "c271a261-223f-425e-a0e8-ac4bb02ad0de"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "R Lakshmipriya",
+      "Mantha Sri Ramya",
+      "L Subramanian",
+      "G Ganapathy"
+    ],
+    "id": "082f56a3-969f-4fe7-8a97-a7ce75d018da"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "NARADA GANA SABHA",
+    "artist_names": [
+      "SRIRANJANI TAPASYA SANTHANAGOPALANKAMALAKIRAN VINJAMURISUMESH NARAYANANANIRUDH ATHREYA"
+    ],
+    "id": "7ea7458f-e2c4-4276-b4ec-d39a850bec95"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Narada Gana Sabha - Isai Natya Nataka Vizha 2025-26",
+    "artist_names": [
+      "SRIRANJANI TAPASYA SANTHANAGOPALANKAMALAKIRAN VINJAMURISUMESH NARAYANANANIRUDH ATHREYA"
+    ],
+    "id": "d92fcbe3-150e-426f-abe8-de80a3d240b5"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Priya Krishnamurty/Vrinda Varma/Nochur Nagaraj"
+    ],
+    "id": "36ae3650-d87e-4b9a-b878-957186f3764d"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Rasika Fine Arts, Chennai",
+    "artist_names": [
+      "Miss. Samhitha Shivram & Mr. Shreyes Shivram – Mandolin",
+      "VG. Visswesh",
+      "Sai Bharath",
+      "Gummudipoondi R. Jeeva - Thavil"
+    ],
+    "id": "e00b7d43-2323-458c-8304-9487b706b22b"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "SASTRA Satsangh Margazhi Mela",
+    "artist_names": [
+      "TBD"
+    ],
+    "id": "d9bfb814-12e3-4aaf-a0eb-e16f17967207"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Neyveli R. SANTHANAGOPALANM.A.Sundareswaran",
+      "K.V.Prasad",
+      "Vaikom Gopalakrishnan"
+    ],
+    "id": "f0dce4e3-0444-4138-b308-24e9695ac256"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "Sri Thyaga Brahma Gana Sabha (Vani Mahal)",
+    "artist_names": [
+      "Dr.M. Narmada -Violin Solo",
+      "G. Vijay Ganesh",
+      "Madipakkam A. Murali"
+    ],
+    "id": "acba24f7-f691-46a0-9ac9-6aa4edb568b5"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "The Music Academy, Madras",
+    "artist_names": [
+      "Trivandrum Dr.N.J.Nandini",
+      "Apoorva Krishna",
+      "Akshay Anand",
+      "K.R.Sivaramakrishna"
+    ],
+    "id": "21af6388-b648-484a-9c4f-b0442ed68215"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:00",
+    "venue_name": "The Mylapore Fine Arts Club (Regd.)",
+    "artist_names": [
+      "K. GAYATHRIVittal Rangan",
+      "Sai Giridhar"
+    ],
+    "id": "39a4dff9-603b-4d2b-a5fb-d7883471ca47"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:15",
+    "venue_name": "Kartik Fine Arts",
+    "artist_names": [
+      "‘Isai Chudar’ Abilash Giriprasad",
+      "M. Vijay",
+      "Trivandrum V. Balaji",
+      "B.S. Purushotham"
+    ],
+    "id": "0d80213b-f66e-4734-ba43-750f2992b3d1"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:30",
+    "venue_name": "Arkay Convention Center",
+    "artist_names": [
+      "Kalyanapuram Aravind",
+      "H N Bhaskar",
+      "B S Prasanth",
+      "Nerkunam Dr Sankar"
+    ],
+    "id": "29f085dc-c61b-4bf3-841c-8179b0c91a01"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:30",
+    "venue_name": "Bharat Kalachar",
+    "artist_names": [
+      "Abhishek Raghuram Shashank Subramanian",
+      "Parupalli Phalgun",
+      "Giridhar Udupa"
+    ],
+    "id": "577591da-c694-49a4-8883-642e1e0e4851"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:30",
+    "venue_name": "Nada Sudha Music Festival",
+    "artist_names": [
+      "VANITHA SURESHC.S.Chinmayi",
+      "Sarvajith Krishna Mohan"
+    ],
+    "id": "565ca199-573f-4c47-bc3d-7ed8d4b2cccf"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:30",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Bangalore Ms. S. Sneha",
+      "Sri. Akshay Shivaji Chavan",
+      "Sri. Rajesh Davale"
+    ],
+    "id": "c7f78962-db86-416e-b952-29e6dfb27abe"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:30",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "Shaankara Shaaradam by Smt. Subhashri Sasidharan"
+    ],
+    "id": "d85e7ede-96bf-48d7-bced-3be83e19e40d"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:45",
+    "venue_name": "Carnatica & Sri Parthasarathy Swami Sabha",
+    "artist_names": [
+      "Shubashree Ramachandran",
+      "Vignesh Thyagarajan",
+      "Ajay Gopi",
+      "Samyuktha Sriram"
+    ],
+    "id": "0a8c9a72-0e64-4ae2-ae46-287bcadebfc2"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "16:45",
+    "venue_name": "Ragamalika TV & GCMA with Aradhan Mini Hall",
+    "artist_names": [
+      "Samskritham Vivek Sadhasivam & Akshay Padmanabhan",
+      "Adhithya Anil",
+      "Sai Sarangam & Sai Nivaethan",
+      "Satya Ganesan"
+    ],
+    "id": "e38788c1-bbbb-4c89-adcf-2dbe6f62e628"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "17:00",
+    "venue_name": "MAARGA",
+    "artist_names": [
+      "Varsha Bhuvaneswari"
+    ],
+    "id": "ee595ff1-b5ba-47aa-ba69-b0e3f5adfc5e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "17:00",
+    "venue_name": "Neelakanta Sivan Cultural Academy - Velachery Marghazhi Utsavam",
+    "artist_names": [
+      "Grand Flute concert by Bhaskaran/Vishal Soumyan/Trichur.C. Narendran/ S.Venkataramanan /D V  Venkita Subramanim"
+    ],
+    "id": "3366a377-f8cc-4411-82b4-fad0374bc5e0"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "17:00",
+    "venue_name": "VVS Foundation & SAMAA Arts LLC Festivals 2025-2026",
+    "artist_names": [
+      "Uma Ranganathan",
+      "Aparna Thyagarajan",
+      "Trivandrum Harisankar",
+      "SWAGATHAM SERIES | Near RR Sabha"
+    ],
+    "id": "7d392e08-b661-4e66-8d2d-554a71963929"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "17:30",
+    "venue_name": "MAARGA",
+    "artist_names": [
+      "Carnatica Brothers [KN Shashikiran & P Ganesh]Delhi P Sunder Rajan",
+      "Neyveli Narayanan",
+      "Sriram Ramesh"
+    ],
+    "id": "c8108619-b458-4ea7-b138-ffe134107c1e"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:00",
+    "venue_name": "The Indian Fine Arts Society",
+    "artist_names": [
+      "Pranav Pradeep and Keerthana Anil"
+    ],
+    "id": "1c336552-8ba0-4f03-924a-2356277616dd"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:15",
+    "venue_name": "BGS DECEMBER ART FESTIVAL 2025",
+    "artist_names": [
+      "Kala Katha Kreeda A Special Presentation of a Year End Concert by Kalaimamani Anil Srinivasan on Piano And Flute JA Jayant With Special Guests Janaki Sabesh Abhilash Venkitachalam Sai Vignesh"
+    ],
+    "id": "4cf809df-29dd-40a0-9094-5ee1e395b8f5"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:15",
+    "venue_name": "Naada Inbam Public Charitable Trust",
+    "artist_names": [
+      "Sangeetha Sivakumar",
+      "Dr R Hemalatha",
+      "B Sivaraman",
+      "N Guruprasad"
+    ],
+    "id": "84e73633-2346-40b5-bdc8-4d0ffc3bf583"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:15",
+    "venue_name": "Shakthi Sangita Sabha",
+    "artist_names": [
+      "Ms. Archana & Ms. Aarathi",
+      "Sri. Vaibhav Ramani",
+      "Kumbakonam Sri. Swaminathan",
+      "Sri. Sai Subramaniam"
+    ],
+    "id": "5ff68a95-8045-4418-aa2b-c279f5afe9af"
+  },
+  {
+    "date": "31-Dec-2025",
+    "time": "18:30",
+    "venue_name": "Arkay Convention Center",
+    "artist_names": [
+      "Talk on Tirukkovaiyar by Madhusudhanan Kaliselvan",
+      "Odhuvar Sadgurunathan  Vocal"
+    ],
+    "id": "110ef8db-6c49-48d8-8455-3585f6ae6337"
+  }
+]
