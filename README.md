@@ -8,7 +8,29 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+  ## Deployment
+
+  This project is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
+
+  ### GitHub Pages Setup
+
+  To enable GitHub Pages deployment for your repository:
+
+  1. Go to your repository settings on GitHub
+  2. Navigate to **Pages** in the left sidebar
+  3. Under **Source**, select **GitHub Actions**
+  4. Push to the `main` branch to trigger the deployment
+
+  The site will be available at: `https://<your-username>.github.io/icarnatic/`
+
+  ### Manual Deployment
+
+  You can also trigger the deployment manually:
+  1. Go to the **Actions** tab in your repository
+  2. Select the "Deploy to GitHub Pages" workflow
+  3. Click "Run workflow"
+
   -----
 
 # Notes
