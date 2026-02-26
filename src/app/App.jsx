@@ -8,10 +8,10 @@ const all_months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep
 export const parseDateTime = (dateStr, timeStr) => {
   const [day, month, year] = dateStr.split('-');
   const dayNum = Number(day);
-  const monthNum = all_months.indexOf(month.toLowerCase()) + 1;
+  const monthNum = all_months.indexOf(month.toLowerCase()); // 0-indexed for Date constructor
   const yearNum = Number(year);
   const [hours, minutes] = timeStr.split(':').map(Number);
-  return new Date(year, month, day, hours, minutes || 0);
+  return new Date(yearNum, monthNum, dayNum, hours, minutes || 0);
 };
 
 // Helper function to get event end time (default 1 hour duration)
