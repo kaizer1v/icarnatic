@@ -1,4 +1,5 @@
 import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { useEffect } from 'react';
 import { MonthView } from './MonthView';
 import { WeekView } from './WeekView';
 import { ScheduleView } from './ScheduleView';
@@ -63,6 +64,48 @@ export function Calendar({
     const diff = d.getDate() - day;
     return new Date(d.setDate(diff));
   };
+
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      // Check if user is typing in an input field
+      if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
+        return;
+      }
+
+      const key = event.key.toLowerCase();
+
+      switch (key) {
+        case 'w':
+          onViewModeChange('week');
+          break;
+        case 'm':
+          onViewModeChange('month');
+          break;
+        case 's':
+          onViewModeChange('schedule');
+          break;
+        case 't':
+          goToToday();
+          break;
+        case 'j':
+          goToPreviousPeriod();
+          break;
+        case 'k':
+          goToNextPeriod();
+          break;
+        default:
+          return;
+      }
+
+      event.preventDefault();
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [viewMode, currentDate, onViewModeChange, onDateChange]);
 
   return (
     <div className="h-full flex flex-col bg-white">

@@ -1,4 +1,4 @@
-import { parseDateTime, getEventColor } from '../App';
+import { parseDateTime } from '../App';
 
 export function MonthView({ events, currentDate }) {
   const getDaysInMonth = () => {
@@ -26,7 +26,7 @@ export function MonthView({ events, currentDate }) {
 
   const getEventsForDay = (date) => {
     if (!date) return [];
-    
+
     return events.filter(event => {
       const eventDate = parseDateTime(event.date, event.time);
       return (
@@ -45,6 +45,31 @@ export function MonthView({ events, currentDate }) {
       date.getMonth() === today.getMonth() &&
       date.getFullYear() === today.getFullYear()
     );
+  };
+
+  // Generate consistent color for venue name
+  const getVenueColor = (venueName) => {
+    const colors = [
+      '#3b82f6', // blue
+      '#8b5cf6', // purple
+      '#ec4899', // pink
+      '#f59e0b', // amber
+      '#10b981', // green
+      '#06b6d4', // cyan
+      '#ef4444', // red
+      '#f97316', // orange
+      '#84cc16', // lime
+      '#6366f1', // indigo
+      '#14b8a6', // teal
+      '#a855f7', // violet
+    ];
+
+    // Simple hash function for consistent colors
+    let hash = 0;
+    for (let i = 0; i < venueName.length; i++) {
+      hash = venueName.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    return colors[Math.abs(hash) % colors.length];
   };
 
   const days = getDaysInMonth();
@@ -90,7 +115,7 @@ export function MonthView({ events, currentDate }) {
                   </div>
                   <div className="space-y-1">
                     {dayEvents.slice(0, 3).map((event) => {
-                      const color = getEventColor(events.indexOf(event));
+                      const color = getVenueColor(event.venue_name);
                       return (
                         <div
                           key={event.id}
