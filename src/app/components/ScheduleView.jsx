@@ -1,8 +1,9 @@
 import { parseDateTime, getEndTime } from '../App';
 import { Calendar, Clock, Users, Search } from 'lucide-react';
 import { useState } from 'react';
+import { SelectButton } from './SelectButton';
 
-export function ScheduleView({ events }) {
+export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
   const [searchQuery, setSearchQuery] = useState('');
   const formatDate = (date) => {
     const options = { 
@@ -286,10 +287,18 @@ export function ScheduleView({ events }) {
                                 </span>
                               </div>
                             </div>
-                            <div
-                              className="w-3 h-3 rounded-full mt-1"
-                              style={{ backgroundColor: color }}
-                            />
+                            <div className="flex items-center gap-2">
+                              <SelectButton
+                                eventId={event.id}
+                                isSelected={mySchedule.includes(event.id)}
+                                onToggle={onToggleSchedule}
+                                size="sm"
+                              />
+                              <div
+                                className="w-3 h-3 rounded-full"
+                                style={{ backgroundColor: color }}
+                              />
+                            </div>
                           </div>
                         </div>
                       );

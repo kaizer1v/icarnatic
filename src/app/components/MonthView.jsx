@@ -1,6 +1,7 @@
 import { parseDateTime } from '../App';
+import { SelectButton } from './SelectButton';
 
-export function MonthView({ events, currentDate }) {
+export function MonthView({ events, currentDate, mySchedule = [], onToggleSchedule }) {
   const getDaysInMonth = () => {
     const year = currentDate.getFullYear();
     const month = currentDate.getMonth();
@@ -119,11 +120,19 @@ export function MonthView({ events, currentDate }) {
                       return (
                         <div
                           key={event.id}
-                          className="text-xs px-2 py-1 rounded truncate cursor-pointer hover:opacity-80 transition-opacity"
+                          className="text-xs px-2 py-1 rounded cursor-pointer hover:opacity-80 transition-opacity"
                           style={{ backgroundColor: color + '20', color: color }}
                           title={`${event.venue_name} - ${event.artist_names.join(', ')}`}
                         >
-                          {event.venue_name}
+                          <div className="flex items-center justify-between gap-1">
+                            <span className="truncate flex-1">{event.venue_name}</span>
+                            <SelectButton
+                              eventId={event.id}
+                              isSelected={mySchedule.includes(event.id)}
+                              onToggle={onToggleSchedule}
+                              size="sm"
+                            />
+                          </div>
                         </div>
                       );
                     })}

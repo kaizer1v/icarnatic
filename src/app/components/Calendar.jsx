@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import { MonthView } from './MonthView';
 import { WeekView } from './WeekView';
 import { ScheduleView } from './ScheduleView';
+import { MyScheduleView } from './MyScheduleView';
 
 export function Calendar({
   events,
@@ -10,6 +11,8 @@ export function Calendar({
   onDateChange,
   viewMode,
   onViewModeChange,
+  mySchedule = [],
+  onToggleSchedule,
 }) {
   const goToPreviousPeriod = () => {
     const newDate = new Date(currentDate);
@@ -40,19 +43,22 @@ export function Calendar({
       'January', 'February', 'March', 'April', 'May', 'June',
       'July', 'August', 'September', 'October', 'November', 'December'
     ];
-    
+
     if (viewMode === 'month') {
       return `${monthNames[currentDate.getMonth()]} ${currentDate.getFullYear()}`;
     } else if (viewMode === 'week') {
       const weekStart = getWeekStart(currentDate);
       const weekEnd = new Date(weekStart);
       weekEnd.setDate(weekEnd.getDate() + 6);
-      
+
       if (weekStart.getMonth() === weekEnd.getMonth()) {
         return `${monthNames[weekStart.getMonth()]} ${weekStart.getDate()}-${weekEnd.getDate()}, ${weekStart.getFullYear()}`;
       } else {
         return `${monthNames[weekStart.getMonth()]} ${weekStart.getDate()} - ${monthNames[weekEnd.getMonth()]} ${weekEnd.getDate()}, ${weekStart.getFullYear()}`;
       }
+    } else if (viewMode === 'myschedule') {
+      const count = mySchedule.length;
+      return `My Schedule${count > 0 ? ` (${count} event${count !== 1 ? 's' : ''})` : ''}`;
     } else {
       return 'Schedule';
     }
@@ -84,6 +90,9 @@ export function Calendar({
           break;
         case 's':
           onViewModeChange('schedule');
+          break;
+        case 'y':
+          onViewModeChange('myschedule');
           break;
         case 't':
           goToToday();
@@ -123,14 +132,14 @@ export function Calendar({
               <button
                 onClick={goToPreviousPeriod}
                 className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
-                disabled={viewMode === 'schedule'}
+                disabled={viewMode === 'schedule' || viewMode === 'myschedule'}
               >
                 <ChevronLeft className="w-5 h-5 text-gray-600" />
               </button>
               <button
                 onClick={goToNextPeriod}
                 className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
-                disabled={viewMode === 'schedule'}
+                disabled={viewMode === 'schedule' || viewMode === 'myschedule'}
               >
                 <ChevronRight className="w-5 h-5 text-gray-600" />
               </button>
@@ -172,6 +181,23 @@ export function Calendar({
             >
               Schedule
             </button>
+            <button
+              onClick={() => onViewModeChange('myschedule')}
+              className={`px-4 py-2 text-sm font-medium rounded-md transition-colors ${
+                viewMode === 'myschedule'
+                  ? 'bg-white text-gray-900 shadow-sm'
+                  : 'text-gray-600 hover:text-gray-900'
+              }`}
+            >
+              <div className="flex items-center gap-2">
+                My Schedule
+                {mySchedule.length > 0 && (
+                  <span className="bg-blue-600 text-white text-xs px-2 py-0.5 rounded-full">
+                    {mySchedule.length}
+                  </span>
+                )}
+              </div>
+            </button>
           </div>
         </div>
       </div>
@@ -179,13 +205,34 @@ export function Calendar({
       {/* Calendar View */}
       <div className="flex-1 overflow-auto">
         {viewMode === 'month' && (
-          <MonthView events={events} currentDate={currentDate} />
+          <MonthView
+            events={events}
+            currentDate={currentDate}
+            mySchedule={mySchedule}
+            onToggleSchedule={onToggleSchedule}
+          />
         )}
         {viewMode === 'week' && (
-          <WeekView events={events} currentDate={currentDate} />
+          <WeekView
+            events={events}
+            currentDate={currentDate}
+            mySchedule={mySchedule}
+            onToggleSchedule={onToggleSchedule}
+          />
         )}
         {viewMode === 'schedule' && (
-          <ScheduleView events={events} />
+          <ScheduleView
+            events={events}
+            mySchedule={mySchedule}
+            onToggleSchedule={onToggleSchedule}
+          />
+        )}
+        {viewMode === 'myschedule' && (
+          <MyScheduleView
+            events={events}
+            mySchedule={mySchedule}
+            onToggleSchedule={onToggleSchedule}
+          />
         )}
       </div>
     </div>

@@ -1,8 +1,9 @@
 import { parseDateTime, getEndTime } from '../App';
 import { useState, useMemo } from 'react';
 import { Search, Filter } from 'lucide-react';
+import { SelectButton } from './SelectButton';
 
-export function WeekView({ events, currentDate }) {
+export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedule }) {
   const [activeEventId, setActiveEventId] = useState(null);
   const [showAllEvents, setShowAllEvents] = useState(true);
   const [selectedVenues, setSelectedVenues] = useState(new Set());
@@ -380,8 +381,17 @@ export function WeekView({ events, currentDate }) {
                             border: isActive ? '2px solid rgba(255, 255, 255, 0.9)' : '1px solid rgba(255, 255, 255, 0.3)',
                           }}
                         >
-                          <div className={`text-xs font-semibold text-white mb-1 ${!isActive && totalColumns > 2 ? 'truncate' : ''}`}>
-                            {event.venue_name}
+                          <div className="flex items-center justify-between mb-1">
+                            <div className={`text-xs font-semibold text-white flex-1 ${!isActive && totalColumns > 2 ? 'truncate' : ''}`}>
+                              {event.venue_name}
+                            </div>
+                            <SelectButton
+                              eventId={event.id}
+                              isSelected={mySchedule.includes(event.id)}
+                              onToggle={onToggleSchedule}
+                              size="sm"
+                              variant="light"
+                            />
                           </div>
                           <div className="text-xs text-white opacity-90">
                             {formatTime(start)} - {formatTime(end)}
