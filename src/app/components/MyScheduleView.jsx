@@ -102,10 +102,10 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
   // Empty state
   if (selectedEvents.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center h-full text-gray-500 p-8">
-        <Star className="w-16 h-16 mb-4 opacity-20" strokeWidth={1.5} />
-        <h3 className="text-lg font-semibold mb-2 text-gray-700">No Events in Your Schedule</h3>
-        <p className="text-sm text-center max-w-md">
+      <div className="flex flex-col items-center justify-center h-full text-gray-500 p-4 sm:p-8">
+        <Star className="w-12 sm:w-16 h-12 sm:h-16 mb-3 sm:mb-4 opacity-20" strokeWidth={1.5} />
+        <h3 className="text-base sm:text-lg font-semibold mb-2 text-gray-700">No Events in Your Schedule</h3>
+        <p className="text-xs sm:text-sm text-center max-w-md">
           Click the star icon on any event in Month, Week, or Schedule views to add it to your personal schedule
         </p>
       </div>
@@ -115,59 +115,59 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
   return (
     <div className="h-full flex flex-col bg-gray-50">
       {/* Header with actions */}
-      <div className="bg-white border-b px-6 py-4 sticky top-0 z-20">
-        <div className="flex items-center justify-between">
-          <div>
-            <h2 className="text-xl font-semibold text-gray-900">My Schedule</h2>
-            <p className="text-sm text-gray-600">{selectedEvents.length} event{selectedEvents.length !== 1 ? 's' : ''} selected</p>
+      <div className="bg-white border-b px-3 sm:px-6 py-3 sm:py-4 sticky top-0 z-20">
+        <div className="flex items-center justify-between gap-2">
+          <div className="min-w-0">
+            <h2 className="text-base sm:text-xl font-semibold text-gray-900 truncate">My Schedule</h2>
+            <p className="text-xs sm:text-sm text-gray-600">{selectedEvents.length} event{selectedEvents.length !== 1 ? 's' : ''}</p>
           </div>
 
-          <div className="flex gap-2">
+          <div className="flex gap-1.5 sm:gap-2 flex-shrink-0">
             <button
               onClick={() => exportToICS(selectedEvents)}
-              className="flex items-center gap-2 px-4 py-2 text-sm bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+              className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors touch-target"
               title="Download as .ics calendar file"
             >
-              <Download className="w-4 h-4" />
-              <span className="hidden sm:inline">Download</span>
+              <Download className="w-3.5 sm:w-4 h-3.5 sm:h-4" />
+              <span className="hidden md:inline">Download</span>
             </button>
 
             <button
               onClick={() => shareSchedule(selectedEvents)}
-              className="flex items-center gap-2 px-4 py-2 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
+              className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors touch-target"
               title="Share as text (WhatsApp, Telegram, etc.)"
             >
-              <Share2 className="w-4 h-4" />
-              <span className="hidden sm:inline">Share</span>
+              <Share2 className="w-3.5 sm:w-4 h-3.5 sm:h-4" />
+              <span className="hidden md:inline">Share</span>
             </button>
 
             <button
               onClick={handleClearAll}
-              className={`flex items-center gap-2 px-4 py-2 text-sm border rounded-lg transition-colors ${
+              className={`flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm border rounded-lg transition-colors touch-target ${
                 showClearConfirm
                   ? 'bg-red-600 text-white border-red-600 hover:bg-red-700'
                   : 'border-gray-300 hover:bg-gray-50'
               }`}
               title={showClearConfirm ? 'Click again to confirm' : 'Remove all events from schedule'}
             >
-              <Trash2 className="w-4 h-4" />
-              <span className="hidden sm:inline">{showClearConfirm ? 'Confirm?' : 'Clear All'}</span>
+              <Trash2 className="w-3.5 sm:w-4 h-3.5 sm:h-4" />
+              <span className="hidden md:inline">{showClearConfirm ? 'Confirm?' : 'Clear All'}</span>
             </button>
           </div>
         </div>
 
         {/* Stale IDs warning */}
         {staleCount > 0 && (
-          <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mt-4 rounded">
-            <div className="flex items-start gap-3">
-              <AlertTriangle className="w-5 h-5 text-yellow-600 flex-shrink-0 mt-0.5" />
-              <div className="flex-1">
-                <p className="text-sm text-yellow-700">
+          <div className="bg-yellow-50 border-l-4 border-yellow-400 p-3 sm:p-4 mt-3 sm:mt-4 rounded">
+            <div className="flex items-start gap-2 sm:gap-3">
+              <AlertTriangle className="w-4 sm:w-5 h-4 sm:h-5 text-yellow-600 flex-shrink-0 mt-0.5" />
+              <div className="flex-1 min-w-0">
+                <p className="text-xs sm:text-sm text-yellow-700">
                   {staleCount} event{staleCount !== 1 ? 's' : ''} in your schedule {staleCount !== 1 ? 'are' : 'is'} no longer available.
                 </p>
                 <button
                   onClick={cleanupStaleIds}
-                  className="text-sm text-yellow-800 underline hover:text-yellow-900 mt-1"
+                  className="text-xs sm:text-sm text-yellow-800 underline hover:text-yellow-900 mt-1 touch-target"
                 >
                   Remove {staleCount !== 1 ? 'them' : 'it'}
                 </button>
@@ -178,8 +178,8 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
       </div>
 
       {/* Events list */}
-      <div className="flex-1 overflow-auto p-6">
-        <div className="max-w-4xl mx-auto space-y-6">
+      <div className="flex-1 overflow-auto p-3 sm:p-6">
+        <div className="max-w-4xl mx-auto space-y-4 sm:space-y-6">
           {sortedDates.map((date, dateIndex) => {
             const dateEvents = groupedEvents[date].sort((a, b) => {
               const timeA = parseDateTime(a.date, a.time);
@@ -193,20 +193,20 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
             return (
               <div key={date}>
                 {/* Date Header */}
-                <div className="sticky top-0 bg-gray-50 py-3 z-10 flex items-center gap-3">
-                  <Calendar className="w-5 h-5 text-gray-600" />
-                  <h3 className="text-lg font-semibold text-gray-900">
+                <div className="sticky top-0 bg-gray-50 py-2 sm:py-3 z-10 flex items-center gap-2 sm:gap-3">
+                  <Calendar className="w-4 sm:w-5 h-4 sm:h-5 text-gray-600 flex-shrink-0" />
+                  <h3 className="text-sm sm:text-lg font-semibold text-gray-900 flex-1 min-w-0 truncate">
                     {formatDate(eventDate)}
                   </h3>
                   {isUpcoming && (
-                    <span className="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">
+                    <span className="text-[10px] sm:text-xs px-1.5 sm:px-2 py-0.5 sm:py-1 bg-blue-100 text-blue-700 rounded-full flex-shrink-0">
                       Upcoming
                     </span>
                   )}
                 </div>
 
                 {/* Events for this date */}
-                <div className="space-y-4 mt-2">
+                <div className="space-y-2.5 sm:space-y-4 mt-2">
                   {dateEvents.map((event) => {
                     const startTime = parseDateTime(event.date, event.time);
                     const endTime = getEndTime(startTime);
@@ -216,39 +216,39 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
                     return (
                       <div
                         key={event.id}
-                        className={`bg-white rounded-lg shadow-sm p-4 border-l-4 hover:shadow-md transition-shadow ${
+                        className={`bg-white rounded-lg shadow-sm p-3 sm:p-4 border-l-4 hover:shadow-md transition-shadow ${
                           past ? 'opacity-60' : ''
                         }`}
                         style={{ borderLeftColor: color }}
                       >
-                        <div className="flex items-start justify-between">
-                          <div className="flex-1">
-                            <h4 className="font-semibold text-gray-900 mb-2">
+                        <div className="flex items-start justify-between gap-2">
+                          <div className="flex-1 min-w-0">
+                            <h4 className="font-semibold text-sm sm:text-base text-gray-900 mb-2 truncate">
                               {event.venue_name}
                             </h4>
 
-                            <div className="space-y-2 mb-3">
+                            <div className="space-y-1.5 sm:space-y-2 mb-2 sm:mb-3">
                               {event.artist_names.length > 0 && (
-                                <div className="flex items-start gap-2 text-sm text-gray-600">
-                                  <Users className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                                  <span>{event.artist_names.join(', ')}</span>
+                                <div className="flex items-start gap-1.5 sm:gap-2 text-xs sm:text-sm text-gray-600">
+                                  <Users className="w-3.5 sm:w-4 h-3.5 sm:h-4 mt-0.5 flex-shrink-0" />
+                                  <span className="line-clamp-2">{event.artist_names.join(', ')}</span>
                                 </div>
                               )}
                             </div>
 
-                            <div className="flex items-center gap-4 text-sm text-gray-500">
+                            <div className="flex flex-wrap items-center gap-2 sm:gap-4 text-xs sm:text-sm text-gray-500">
                               <div className="flex items-center gap-1">
-                                <Clock className="w-4 h-4" />
+                                <Clock className="w-3.5 sm:w-4 h-3.5 sm:h-4" />
                                 <span>
                                   {formatTime(startTime)} - {formatTime(endTime)}
                                 </span>
                               </div>
-                              <span className="text-xs px-2 py-1 bg-gray-100 rounded">
+                              <span className="text-[10px] sm:text-xs px-1.5 sm:px-2 py-0.5 sm:py-1 bg-gray-100 rounded">
                                 {getDuration(startTime, endTime)}
                               </span>
                             </div>
                           </div>
-                          <div className="flex items-center gap-2">
+                          <div className="flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
                             <SelectButton
                               eventId={event.id}
                               isSelected={true}
@@ -256,7 +256,7 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
                               size="sm"
                             />
                             <div
-                              className="w-3 h-3 rounded-full"
+                              className="w-2.5 sm:w-3 h-2.5 sm:h-3 rounded-full"
                               style={{ backgroundColor: color }}
                             />
                           </div>
@@ -268,7 +268,7 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
 
                 {/* Separator line between dates (except for last date) */}
                 {dateIndex < sortedDates.length - 1 && (
-                  <div className="border-t border-gray-200 my-6" />
+                  <div className="border-t border-gray-200 my-4 sm:my-6" />
                 )}
               </div>
             );

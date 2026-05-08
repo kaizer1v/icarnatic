@@ -179,3 +179,28 @@
     line-height: 1.5;
   }
 }
+
+/* Mobile-friendly styles */
+@layer utilities {
+  /* Ensure proper touch targets on mobile (min 44x44px) */
+  .touch-target {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  /* Prevent text from being too small on mobile */
+  @media (max-width: 640px) {
+    html {
+      font-size: 14px;
+    }
+  }
+
+  /* Smooth scrolling for mobile */
+  @supports (-webkit-overflow-scrolling: touch) {
+    .overflow-auto,
+    .overflow-y-auto,
+    .overflow-x-auto {
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+}

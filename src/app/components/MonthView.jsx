@@ -75,15 +75,28 @@ export function MonthView({ events, currentDate, mySchedule = [], onToggleSchedu
 
   const days = getDaysInMonth();
   const weekDays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const weekDaysMobile = ['S', 'M', 'T', 'W', 'T', 'F', 'S'];
 
   return (
     <div className="h-full flex flex-col">
-      {/* Week day headers */}
-      <div className="grid grid-cols-7 border-b bg-gray-50">
+      {/* Week day headers - Desktop */}
+      <div className="hidden sm:grid grid-cols-7 border-b bg-gray-50">
         {weekDays.map((day) => (
           <div
             key={day}
             className="py-3 text-center text-sm font-semibold text-gray-600 border-r last:border-r-0"
+          >
+            {day}
+          </div>
+        ))}
+      </div>
+
+      {/* Week day headers - Mobile */}
+      <div className="grid sm:hidden grid-cols-7 border-b bg-gray-50">
+        {weekDaysMobile.map((day, i) => (
+          <div
+            key={i}
+            className="py-2 text-center text-xs font-semibold text-gray-600 border-r last:border-r-0"
           >
             {day}
           </div>
@@ -99,13 +112,13 @@ export function MonthView({ events, currentDate, mySchedule = [], onToggleSchedu
           return (
             <div
               key={index}
-              className="border-r border-b last:border-r-0 p-2 min-h-[120px] bg-white hover:bg-gray-50 transition-colors"
+              className="border-r border-b last:border-r-0 p-1 sm:p-2 min-h-[80px] sm:min-h-[120px] bg-white hover:bg-gray-50 transition-colors"
             >
               {date && (
                 <>
                   <div className="flex justify-end mb-1">
                     <span
-                      className={`text-sm font-medium w-7 h-7 flex items-center justify-center rounded-full ${
+                      className={`text-xs sm:text-sm font-medium w-6 h-6 sm:w-7 sm:h-7 flex items-center justify-center rounded-full ${
                         today
                           ? 'bg-blue-600 text-white'
                           : 'text-gray-700'
@@ -114,13 +127,13 @@ export function MonthView({ events, currentDate, mySchedule = [], onToggleSchedu
                       {date.getDate()}
                     </span>
                   </div>
-                  <div className="space-y-1">
+                  <div className="space-y-0.5 sm:space-y-1">
                     {dayEvents.slice(0, 3).map((event) => {
                       const color = getVenueColor(event.venue_name);
                       return (
                         <div
                           key={event.id}
-                          className="text-xs px-2 py-1 rounded cursor-pointer hover:opacity-80 transition-opacity"
+                          className="text-[10px] sm:text-xs px-1 sm:px-2 py-0.5 sm:py-1 rounded cursor-pointer hover:opacity-80 transition-opacity"
                           style={{ backgroundColor: color + '20', color: color }}
                           title={`${event.venue_name} - ${event.artist_names.join(', ')}`}
                         >
@@ -137,8 +150,8 @@ export function MonthView({ events, currentDate, mySchedule = [], onToggleSchedu
                       );
                     })}
                     {dayEvents.length > 3 && (
-                      <div className="text-xs text-gray-500 px-2">
-                        +{dayEvents.length - 3} more
+                      <div className="text-[10px] sm:text-xs text-gray-500 px-1 sm:px-2">
+                        +{dayEvents.length - 3}
                       </div>
                     )}
                   </div>

@@ -119,8 +119,96 @@ export function Calendar({
   return (
     <div className="h-full flex flex-col bg-white">
       {/* Header */}
-      <div className="border-b px-6 py-4">
-        <div className="flex items-center justify-between mb-4">
+      <div className="border-b px-3 sm:px-6 py-3 sm:py-4">
+        {/* Mobile Layout */}
+        <div className="flex flex-col gap-3 sm:hidden">
+          {/* Title and Today Button Row */}
+          <div className="flex items-center justify-between">
+            <h2 className="text-base font-semibold text-gray-900 flex-1 min-w-0 truncate">
+              {getTitle()}
+            </h2>
+            <button
+              onClick={goToToday}
+              className="px-3 py-1.5 text-xs font-medium bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors touch-target flex-shrink-0"
+            >
+              Today
+            </button>
+          </div>
+
+          {/* Navigation and View Mode Row */}
+          <div className="flex items-center justify-between gap-2">
+            <div className="flex items-center gap-1">
+              <button
+                onClick={goToPreviousPeriod}
+                className="p-2 hover:bg-gray-100 rounded-lg transition-colors touch-target"
+                disabled={viewMode === 'schedule' || viewMode === 'myschedule'}
+              >
+                <ChevronLeft className="w-5 h-5 text-gray-600" />
+              </button>
+              <button
+                onClick={goToNextPeriod}
+                className="p-2 hover:bg-gray-100 rounded-lg transition-colors touch-target"
+                disabled={viewMode === 'schedule' || viewMode === 'myschedule'}
+              >
+                <ChevronRight className="w-5 h-5 text-gray-600" />
+              </button>
+            </div>
+
+            {/* View Mode Selector - Mobile */}
+            <div className="flex items-center bg-gray-100 rounded-lg p-0.5">
+              <button
+                onClick={() => onViewModeChange('month')}
+                className={`px-2 py-1.5 text-xs font-medium rounded-md transition-colors touch-target ${
+                  viewMode === 'month'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600'
+                }`}
+              >
+                Month
+              </button>
+              <button
+                onClick={() => onViewModeChange('week')}
+                className={`px-2 py-1.5 text-xs font-medium rounded-md transition-colors touch-target ${
+                  viewMode === 'week'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600'
+                }`}
+              >
+                Week
+              </button>
+              <button
+                onClick={() => onViewModeChange('schedule')}
+                className={`px-2 py-1.5 text-xs font-medium rounded-md transition-colors touch-target ${
+                  viewMode === 'schedule'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600'
+                }`}
+              >
+                List
+              </button>
+              <button
+                onClick={() => onViewModeChange('myschedule')}
+                className={`px-2 py-1.5 text-xs font-medium rounded-md transition-colors touch-target ${
+                  viewMode === 'myschedule'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600'
+                }`}
+              >
+                <div className="flex items-center gap-1">
+                  Mine
+                  {mySchedule.length > 0 && (
+                    <span className="bg-blue-600 text-white text-xs px-1.5 py-0.5 rounded-full">
+                      {mySchedule.length}
+                    </span>
+                  )}
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Desktop Layout */}
+        <div className="hidden sm:flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
               onClick={goToToday}
@@ -149,7 +237,7 @@ export function Calendar({
             </h2>
           </div>
 
-          {/* View Mode Selector */}
+          {/* View Mode Selector - Desktop */}
           <div className="flex items-center bg-gray-100 rounded-lg p-1">
             <button
               onClick={() => onViewModeChange('month')}

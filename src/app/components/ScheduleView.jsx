@@ -132,9 +132,9 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
 
   return (
     <div className="h-full overflow-auto bg-gray-50 relative">
-      {/* Floating Date Index */}
+      {/* Floating Date Index - Desktop Only */}
       {filteredDateKeys.length > 0 && (
-        <div className="hidden lg:block fixed left-4 top-24 bg-white rounded-lg shadow-lg p-4 max-h-[calc(100vh-120px)] overflow-y-auto z-10 w-48">
+        <div className="hidden xl:block fixed left-4 top-24 bg-white rounded-lg shadow-lg p-4 max-h-[calc(100vh-120px)] overflow-y-auto z-10 w-48">
           <h4 className="text-xs font-semibold text-gray-500 uppercase mb-3">Quick Jump</h4>
           <div className="space-y-1">
             {filteredDateKeys.map((dateKey) => {
@@ -163,30 +163,30 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
         </div>
       )}
 
-      <div className="max-w-4xl mx-auto p-6">
+      <div className="max-w-4xl mx-auto p-3 sm:p-6">
         {/* Header with Search Bar */}
-        <div className="sticky top-0 z-20 bg-gray-50 pb-4 mb-6">
-          <div className="mb-4">
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">Schedule</h2>
-            <p className="text-gray-600">All upcoming and past events</p>
+        <div className="sticky top-0 z-20 bg-gray-50 pb-3 sm:pb-4 mb-4 sm:mb-6">
+          <div className="mb-3 sm:mb-4">
+            <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-1 sm:mb-2">Schedule</h2>
+            <p className="text-sm sm:text-base text-gray-600">All upcoming and past events</p>
           </div>
 
           {/* Search Bar */}
           <div className="relative">
-            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400" />
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 sm:w-5 h-4 sm:h-5 text-gray-400" />
             <input
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Search events, venues, or artists..."
-              className="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white shadow-sm"
+              className="w-full pl-9 sm:pl-10 pr-10 sm:pr-4 py-2.5 sm:py-3 text-sm sm:text-base border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white shadow-sm"
             />
             {searchQuery && (
               <button
                 onClick={() => setSearchQuery('')}
-                className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 touch-target"
               >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 sm:w-5 h-4 sm:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                 </svg>
               </button>
@@ -195,49 +195,49 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
 
           {/* Search Results Count */}
           {searchQuery && (
-            <div className="mt-2 text-sm text-gray-600">
+            <div className="mt-2 text-xs sm:text-sm text-gray-600">
               Found {filteredEvents.length} event{filteredEvents.length !== 1 ? 's' : ''} matching "{searchQuery}"
             </div>
           )}
         </div>
 
         {filteredDateKeys.length === 0 ? (
-          <div className="bg-white rounded-lg shadow-sm p-12 text-center">
-            <Calendar className="w-16 h-16 text-gray-400 mx-auto mb-4" />
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">
+          <div className="bg-white rounded-lg shadow-sm p-8 sm:p-12 text-center">
+            <Calendar className="w-12 sm:w-16 h-12 sm:h-16 text-gray-400 mx-auto mb-4" />
+            <h3 className="text-base sm:text-lg font-semibold text-gray-900 mb-2">
               {searchQuery ? 'No matching events found' : 'No events scheduled'}
             </h3>
-            <p className="text-gray-600">
+            <p className="text-sm sm:text-base text-gray-600">
               {searchQuery ? 'Try adjusting your search terms' : 'Your calendar is empty'}
             </p>
           </div>
         ) : (
-          <div className="space-y-6">
+          <div className="space-y-4 sm:space-y-6">
             {filteredDateKeys.map((dateKey, dateIndex) => {
               const dayEvents = filteredGroupedEvents[dateKey];
               const firstEventDate = parseDateTime(dayEvents[0].date, dayEvents[0].time);
               const upcoming = isUpcoming(firstEventDate);
 
               return (
-                <div key={dateKey} id={`date-${dateKey}`} className="scroll-mt-32">
+                <div key={dateKey} id={`date-${dateKey}`} className="scroll-mt-20 sm:scroll-mt-32">
                   {/* Date separator box */}
-                  <div className="bg-white rounded-lg shadow-md border-2 border-gray-200 p-6 mb-4">
+                  <div className="bg-white rounded-lg shadow-md border-2 border-gray-200 p-4 sm:p-6 mb-3 sm:mb-4">
                     <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-3">
-                        <div className="bg-blue-500 rounded-lg p-2">
-                          <Calendar className="w-5 h-5 text-white" />
+                      <div className="flex items-center gap-2 sm:gap-3">
+                        <div className="bg-blue-500 rounded-lg p-1.5 sm:p-2 flex-shrink-0">
+                          <Calendar className="w-4 sm:w-5 h-4 sm:h-5 text-white" />
                         </div>
-                        <div>
-                          <h3 className="text-xl font-bold text-gray-900">
+                        <div className="min-w-0">
+                          <h3 className="text-base sm:text-xl font-bold text-gray-900 truncate">
                             {dateKey}
                           </h3>
-                          <p className="text-sm text-gray-500">
-                            {dayEvents.length} event{dayEvents.length !== 1 ? 's' : ''} scheduled
+                          <p className="text-xs sm:text-sm text-gray-500">
+                            {dayEvents.length} event{dayEvents.length !== 1 ? 's' : ''}
                           </p>
                         </div>
                       </div>
                       {upcoming && (
-                        <span className="text-xs px-3 py-1.5 bg-blue-100 text-blue-700 rounded-full font-medium">
+                        <span className="text-[10px] sm:text-xs px-2 sm:px-3 py-1 sm:py-1.5 bg-blue-100 text-blue-700 rounded-full font-medium flex-shrink-0">
                           Upcoming
                         </span>
                       )}
@@ -245,7 +245,7 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
                   </div>
 
                   {/* Events list */}
-                  <div className="space-y-3 ml-4">
+                  <div className="space-y-2 sm:space-y-3 ml-2 sm:ml-4">
                     {dayEvents.map((event) => {
                       const startTime = parseDateTime(event.date, event.time);
                       const endTime = getEndTime(startTime);
@@ -255,39 +255,39 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
                       return (
                         <div
                           key={event.id}
-                          className={`bg-white rounded-lg shadow-sm p-4 border-l-4 hover:shadow-md transition-shadow ${
+                          className={`bg-white rounded-lg shadow-sm p-3 sm:p-4 border-l-4 hover:shadow-md transition-shadow ${
                             past ? 'opacity-60' : ''
                           }`}
                           style={{ borderLeftColor: color }}
                         >
-                          <div className="flex items-start justify-between">
-                            <div className="flex-1">
-                              <h4 className="font-semibold text-gray-900 mb-2">
+                          <div className="flex items-start justify-between gap-2">
+                            <div className="flex-1 min-w-0">
+                              <h4 className="font-semibold text-sm sm:text-base text-gray-900 mb-2 truncate">
                                 {event.venue_name}
                               </h4>
 
-                              <div className="space-y-2 mb-3">
+                              <div className="space-y-1.5 sm:space-y-2 mb-2 sm:mb-3">
                                 {event.artist_names.length > 0 && (
-                                  <div className="flex items-start gap-2 text-sm text-gray-600">
-                                    <Users className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                                    <span>{event.artist_names.join(', ')}</span>
+                                  <div className="flex items-start gap-1.5 sm:gap-2 text-xs sm:text-sm text-gray-600">
+                                    <Users className="w-3.5 sm:w-4 h-3.5 sm:h-4 mt-0.5 flex-shrink-0" />
+                                    <span className="line-clamp-2">{event.artist_names.join(', ')}</span>
                                   </div>
                                 )}
                               </div>
 
-                              <div className="flex items-center gap-4 text-sm text-gray-500">
+                              <div className="flex flex-wrap items-center gap-2 sm:gap-4 text-xs sm:text-sm text-gray-500">
                                 <div className="flex items-center gap-1">
-                                  <Clock className="w-4 h-4" />
+                                  <Clock className="w-3.5 sm:w-4 h-3.5 sm:h-4" />
                                   <span>
                                     {formatTime(startTime)} - {formatTime(endTime)}
                                   </span>
                                 </div>
-                                <span className="text-xs px-2 py-1 bg-gray-100 rounded">
+                                <span className="text-[10px] sm:text-xs px-1.5 sm:px-2 py-0.5 sm:py-1 bg-gray-100 rounded">
                                   {getDuration(startTime, endTime)}
                                 </span>
                               </div>
                             </div>
-                            <div className="flex items-center gap-2">
+                            <div className="flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
                               <SelectButton
                                 eventId={event.id}
                                 isSelected={mySchedule.includes(event.id)}
@@ -295,7 +295,7 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
                                 size="sm"
                               />
                               <div
-                                className="w-3 h-3 rounded-full"
+                                className="w-2.5 sm:w-3 h-2.5 sm:h-3 rounded-full"
                                 style={{ backgroundColor: color }}
                               />
                             </div>
@@ -307,7 +307,7 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
 
                   {/* Separator line between dates (except for last date) */}
                   {dateIndex < filteredDateKeys.length - 1 && (
-                    <div className="mt-6 border-t-2 border-gray-200"></div>
+                    <div className="mt-4 sm:mt-6 border-t-2 border-gray-200"></div>
                   )}
                 </div>
               );

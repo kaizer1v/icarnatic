@@ -189,9 +189,9 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
   const weekDayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
   return (
-    <div className="h-full flex">
-      {/* Left Sidebar */}
-      <div className="w-64 bg-white border-r border-gray-200 overflow-y-auto flex-shrink-0">
+    <div className="h-full flex flex-col sm:flex-row">
+      {/* Left Sidebar - Desktop Only */}
+      <div className="hidden lg:block w-64 bg-white border-r border-gray-200 overflow-y-auto flex-shrink-0">
         <div className="p-4">
           <div className="flex items-center gap-2 mb-4">
             <Filter className="w-5 h-5 text-gray-600" />
@@ -280,10 +280,35 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
         </div>
       </div>
 
+      {/* Mobile Filters Bar */}
+      <div className="lg:hidden bg-white border-b p-2">
+        <div className="flex items-center gap-2">
+          <div className="relative flex-1">
+            <Search className="absolute left-2 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-400" />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder="Search..."
+              className="w-full pl-8 pr-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+          </div>
+          <label className="flex items-center gap-2 text-xs whitespace-nowrap">
+            <input
+              type="checkbox"
+              checked={showAllEvents}
+              onChange={(e) => setShowAllEvents(e.target.checked)}
+              className="w-4 h-4 text-blue-600 rounded"
+            />
+            All
+          </label>
+        </div>
+      </div>
+
       {/* Main Calendar Area */}
       <div className="flex-1 flex flex-col overflow-hidden">
-        {/* Week day headers */}
-        <div className="grid grid-cols-8 border-b bg-gray-50 sticky top-0 z-10">
+        {/* Week day headers - Desktop */}
+        <div className="hidden sm:grid grid-cols-8 border-b bg-gray-50 sticky top-0 z-10">
           <div className="py-3 px-4 text-sm font-semibold text-gray-600 border-r">
             Time
           </div>
@@ -311,6 +336,35 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
           })}
         </div>
 
+        {/* Week day headers - Mobile */}
+        <div className="grid sm:hidden grid-cols-8 border-b bg-gray-50 sticky top-0 z-10">
+          <div className="py-2 px-1 text-xs font-semibold text-gray-600 border-r">
+            Time
+          </div>
+          {weekDays.map((date, index) => {
+            const today = isToday(date);
+            return (
+              <div
+                key={index}
+                className="py-2 px-1 text-center border-r last:border-r-0"
+              >
+                <div className="text-[10px] text-gray-500 mb-0.5">
+                  {weekDayNames[date.getDay()].slice(0, 1)}
+                </div>
+                <div
+                  className={`text-xs font-semibold inline-flex items-center justify-center w-6 h-6 rounded-full ${
+                    today
+                      ? 'bg-blue-600 text-white'
+                      : 'text-gray-900'
+                  }`}
+                >
+                  {date.getDate()}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
         {/* Time grid */}
         <div className="flex-1 overflow-auto">
           <div className="grid grid-cols-8">
@@ -319,9 +373,9 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
               {hours.map((hour) => (
                 <div
                   key={hour}
-                  className="h-16 border-b px-2 py-1 text-xs text-gray-500 text-right"
+                  className="h-12 sm:h-16 border-b px-1 sm:px-2 py-1 text-[10px] sm:text-xs text-gray-500 text-right"
                 >
-                  {hour === 0 ? '12 AM' : hour < 12 ? `${hour} AM` : hour === 12 ? '12 PM' : `${hour - 12} PM`}
+                  {hour === 0 ? '12A' : hour < 12 ? `${hour}A` : hour === 12 ? '12P' : `${hour - 12}P`}
                 </div>
               ))}
             </div>
@@ -342,7 +396,7 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
                   {hours.map((hour) => (
                     <div
                       key={hour}
-                      className="h-16 border-b hover:bg-gray-50 transition-colors"
+                      className="h-12 sm:h-16 border-b hover:bg-gray-50 transition-colors"
                     />
                   ))}
 
@@ -356,10 +410,9 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
                       const isActive = activeEventId === event.id;
 
                       // Calculate width and left position based on overlap
-                      // When active, expand to full width
                       const columnWidth = isActive ? 100 : (100 / totalColumns);
                       const leftPercent = isActive ? 0 : (column * columnWidth);
-                      const widthPercent = isActive ? 100 : (columnWidth - (totalColumns > 1 ? 5 : 0)); // 5% gap between overlapping events
+                      const widthPercent = isActive ? 100 : (columnWidth - (totalColumns > 1 ? 5 : 0));
 
                       return (
                         <div
@@ -368,21 +421,21 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
                             e.stopPropagation();
                             setActiveEventId(isActive ? null : event.id);
                           }}
-                          className="absolute rounded-lg p-2 pointer-events-auto cursor-pointer transition-all overflow-hidden shadow-sm hover:shadow-lg"
+                          className="absolute rounded-lg p-1 sm:p-2 pointer-events-auto cursor-pointer transition-all overflow-hidden shadow-sm hover:shadow-lg"
                           style={{
                             top,
                             height,
-                            left: isActive ? '4px' : `calc(${leftPercent}% + 4px)`,
-                            width: isActive ? 'calc(100% - 8px)' : `calc(${widthPercent}% - 4px)`,
+                            left: isActive ? '2px' : `calc(${leftPercent}% + 2px)`,
+                            width: isActive ? 'calc(100% - 4px)' : `calc(${widthPercent}% - 2px)`,
                             backgroundColor: color,
-                            minHeight: '40px',
+                            minHeight: '32px',
                             zIndex: isActive ? 100 : 10 + layoutIndex,
                             opacity: isActive ? 1 : 0.95,
                             border: isActive ? '2px solid rgba(255, 255, 255, 0.9)' : '1px solid rgba(255, 255, 255, 0.3)',
                           }}
                         >
-                          <div className="flex items-center justify-between mb-1">
-                            <div className={`text-xs font-semibold text-white flex-1 ${!isActive && totalColumns > 2 ? 'truncate' : ''}`}>
+                          <div className="flex items-center justify-between mb-0.5">
+                            <div className={`text-[10px] sm:text-xs font-semibold text-white flex-1 ${!isActive && totalColumns > 2 ? 'truncate' : ''}`}>
                               {event.venue_name}
                             </div>
                             <SelectButton
@@ -393,11 +446,11 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
                               variant="light"
                             />
                           </div>
-                          <div className="text-xs text-white opacity-90">
+                          <div className="text-[9px] sm:text-xs text-white opacity-90">
                             {formatTime(start)} - {formatTime(end)}
                           </div>
                           {event.artist_names.length > 0 && (isActive || totalColumns <= 2) && (
-                            <div className={`text-xs text-white opacity-80 ${isActive ? '' : 'truncate'}`}>
+                            <div className={`text-[9px] sm:text-xs text-white opacity-80 ${isActive ? '' : 'truncate'}`}>
                               {event.artist_names.join(', ')}
                             </div>
                           )}
