@@ -78,7 +78,7 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
   const sortedDates = Object.keys(groupedEvents).sort((a, b) => {
     const dateA = parseDateTime(a, '00:00');
     const dateB = parseDateTime(b, '00:00');
-    return dateA - dateB;
+    return dateB - dateA; // descending order (most recent first)
   });
 
   const handleClearAll = () => {
@@ -182,9 +182,9 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
         <div className="max-w-4xl mx-auto space-y-4 sm:space-y-6">
           {sortedDates.map((date, dateIndex) => {
             const dateEvents = groupedEvents[date].sort((a, b) => {
-              const timeA = parseDateTime(a.date, a.time);
-              const timeB = parseDateTime(b.date, b.time);
-              return timeA - timeB;
+              const timeA = parseDateTime(a.date, a.start_time || a.time);
+              const timeB = parseDateTime(b.date, b.start_time || b.time);
+              return timeB - timeA; // descending order (latest time first within the day)
             });
 
             const eventDate = parseDateTime(date, '00:00');
@@ -208,8 +208,8 @@ export function MyScheduleView({ events, mySchedule, onToggleSchedule }) {
                 {/* Events for this date */}
                 <div className="space-y-2.5 sm:space-y-4 mt-2">
                   {dateEvents.map((event) => {
-                    const startTime = parseDateTime(event.date, event.time);
-                    const endTime = getEndTime(startTime);
+                    const startTime = parseDateTime(event.date, event.start_time || event.time);
+                    const endTime = getEndTime(event);
                     const past = isPast(endTime);
                     const color = getVenueColor(event.venue_name);
 

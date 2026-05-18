@@ -25,7 +25,7 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
 
   const getEventsForDay = (date) => {
     return events.filter(event => {
-      const eventDate = parseDateTime(event.date, event.time);
+      const eventDate = parseDateTime(event.date, event.start_time || event.time);
       return (
         eventDate.getDate() === date.getDate() &&
         eventDate.getMonth() === date.getMonth() &&
@@ -127,8 +127,8 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
   };
 
   const getEventPosition = (event) => {
-    const start = parseDateTime(event.date, event.time);
-    const end = getEndTime(start);
+    const start = parseDateTime(event.date, event.start_time || event.time);
+    const end = getEndTime(event);
     const startHour = start.getHours() + start.getMinutes() / 60;
     const duration = (end.getTime() - start.getTime()) / (1000 * 60 * 60);
 
@@ -140,10 +140,10 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
 
   // Check if two events have exact same start and end time
   const eventsHaveSameTime = (event1, event2) => {
-    const start1 = parseDateTime(event1.date, event1.time);
-    const end1 = getEndTime(start1);
-    const start2 = parseDateTime(event2.date, event2.time);
-    const end2 = getEndTime(start2);
+    const start1 = parseDateTime(event1.date, event1.start_time || event1.time);
+    const end1 = getEndTime(event1);
+    const start2 = parseDateTime(event2.date, event2.start_time || event2.time);
+    const end2 = getEndTime(event2);
 
     return start1.getTime() === start2.getTime() && end1.getTime() === end2.getTime();
   };
@@ -404,8 +404,8 @@ export function WeekView({ events, currentDate, mySchedule = [], onToggleSchedul
                   <div className="absolute inset-0 pointer-events-none">
                     {layout.map(({ event, column, totalColumns }, layoutIndex) => {
                       const { top, height } = getEventPosition(event);
-                      const start = parseDateTime(event.date, event.time);
-                      const end = getEndTime(start);
+                      const start = parseDateTime(event.date, event.start_time || event.time);
+                      const end = getEndTime(event);
                       const color = getVenueColor(event.venue_name);
                       const isActive = activeEventId === event.id;
 

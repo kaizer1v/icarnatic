@@ -29,7 +29,7 @@ export function MonthView({ events, currentDate, mySchedule = [], onToggleSchedu
     if (!date) return [];
 
     return events.filter(event => {
-      const eventDate = parseDateTime(event.date, event.time);
+      const eventDate = parseDateTime(event.date, event.start_time || event.time);
       return (
         eventDate.getDate() === date.getDate() &&
         eventDate.getMonth() === date.getMonth() &&

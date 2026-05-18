@@ -46,8 +46,8 @@ export function exportToICS(events) {
     ];
 
     events.forEach(event => {
-      const startDate = parseDateTime(event.date, event.time);
-      const endDate = getEndTime(startDate);
+      const startDate = parseDateTime(event.date, event.start_time || event.time);
+      const endDate = getEndTime(event);
 
       // Create description with artist names
       const artistList = event.artist_names.length > 0
@@ -121,14 +121,14 @@ export function exportToText(events) {
 
   sortedDates.forEach((date) => {
     const dateEvents = grouped[date].sort((a, b) => {
-      const timeA = parseDateTime(a.date, a.time);
-      const timeB = parseDateTime(b.date, b.time);
+      const timeA = parseDateTime(a.date, a.start_time || a.time);
+      const timeB = parseDateTime(b.date, b.start_time || b.time);
       return timeA - timeB;
     });
 
     lines.push(`📆 ${date}`);
     dateEvents.forEach(event => {
-      lines.push(`  ⏰ ${event.time} - ${event.venue_name}`);
+      lines.push(`  ⏰ ${event.start_time || event.time} - ${event.venue_name}`);
       if (event.artist_names.length > 0) {
         lines.push(`     🎤 ${event.artist_names.join(', ')}`);
       }

@@ -16,8 +16,23 @@ export const parseDateTime = (dateStr, timeStr) => {
   return new Date(yearNum, monthNum, dayNum, hours, minutes || 0);
 };
 
-// Helper function to get event end time (default 1 hour duration)
-export const getEndTime = (startTime) => {
+// Helper function to get event end time from event object
+// Uses end_time if available, otherwise defaults to start_time + 1 hour
+export const getEndTime = (event) => {
+  // If event is a Date object (legacy usage), add 1 hour
+  if (event instanceof Date) {
+    const endTime = new Date(event);
+    endTime.setHours(endTime.getHours() + 1);
+    return endTime;
+  }
+
+  // If event has end_time, parse and return it
+  if (event.end_time) {
+    return parseDateTime(event.date, event.end_time);
+  }
+
+  // Fallback: parse start_time and add 1 hour
+  const startTime = parseDateTime(event.date, event.start_time || event.time || '00:00');
   const endTime = new Date(startTime);
   endTime.setHours(endTime.getHours() + 1);
   return endTime;

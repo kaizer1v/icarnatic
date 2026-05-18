@@ -38,15 +38,15 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
   // Group events by date
   const groupEventsByDate = () => {
     const grouped = {};
-    
+
     const sortedEvents = [...events].sort((a, b) => {
-      const dateA = parseDateTime(a.date, a.time);
-      const dateB = parseDateTime(b.date, b.time);
-      return dateA.getTime() - dateB.getTime();
+      const dateA = parseDateTime(a.date, a.start_time || a.time);
+      const dateB = parseDateTime(b.date, b.start_time || b.time);
+      return dateB.getTime() - dateA.getTime(); // descending order (most recent first)
     });
-    
+
     sortedEvents.forEach(event => {
-      const eventDate = parseDateTime(event.date, event.time);
+      const eventDate = parseDateTime(event.date, event.start_time || event.time);
       const dateKey = formatDate(eventDate);
       if (!grouped[dateKey]) {
         grouped[dateKey] = [];
@@ -99,12 +99,14 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
       const venueName = event.venue_name?.toLowerCase() || '';
       const artistNames = event.artist_names?.join(' ').toLowerCase() || '';
       const date = event.date?.toLowerCase() || '';
-      const time = event.time?.toLowerCase() || '';
+      const time = (event.start_time || event.time)?.toLowerCase() || '';
+      const city = event.city?.toLowerCase() || '';
 
       return venueName.includes(query) ||
              artistNames.includes(query) ||
              date.includes(query) ||
-             time.includes(query);
+             time.includes(query) ||
+             city.includes(query);
     });
   };
 
@@ -139,7 +141,7 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
           <div className="space-y-1">
             {filteredDateKeys.map((dateKey) => {
               const dayEvents = filteredGroupedEvents[dateKey];
-              const firstEventDate = parseDateTime(dayEvents[0].date, dayEvents[0].time);
+              const firstEventDate = parseDateTime(dayEvents[0].date, dayEvents[0].start_time || dayEvents[0].time);
               const dateStr = firstEventDate.toLocaleDateString('en-US', {
                 month: 'short',
                 day: 'numeric'
@@ -215,7 +217,7 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
           <div className="space-y-4 sm:space-y-6">
             {filteredDateKeys.map((dateKey, dateIndex) => {
               const dayEvents = filteredGroupedEvents[dateKey];
-              const firstEventDate = parseDateTime(dayEvents[0].date, dayEvents[0].time);
+              const firstEventDate = parseDateTime(dayEvents[0].date, dayEvents[0].start_time || dayEvents[0].time);
               const upcoming = isUpcoming(firstEventDate);
 
               return (
@@ -247,8 +249,8 @@ export function ScheduleView({ events, mySchedule = [], onToggleSchedule }) {
                   {/* Events list */}
                   <div className="space-y-2 sm:space-y-3 ml-2 sm:ml-4">
                     {dayEvents.map((event) => {
-                      const startTime = parseDateTime(event.date, event.time);
-                      const endTime = getEndTime(startTime);
+                      const startTime = parseDateTime(event.date, event.start_time || event.time);
+                      const endTime = getEndTime(event);
                       const past = isPast(endTime);
                       const color = getVenueColor(event.venue_name);
 
